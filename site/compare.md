@@ -5,6 +5,7 @@ source_path: "/compare"
 ---
 
 <div v-pre>
+
 # Which edition is right for you?
 
 Compare features, prices, and support. Choose oneCRM for AI and automations, or oneCRM Classic if you rely on existing Classic modules.

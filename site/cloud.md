@@ -5,6 +5,7 @@ source_path: "/cloud"
 ---
 
 <div v-pre>
+
 # Your CRM, hosted and looked after for you
 
 Every oneCRM feature, ready in a minute or two. You pay by the number of users.
@@ -16,7 +17,7 @@ per month, billed monthly
 5 GB storage
 
 Need more than 50 users?
- [Contact us](https://onecrm.example.com/contact)
+ [Contact us](/site/contact)
 
 Every plan includes
 

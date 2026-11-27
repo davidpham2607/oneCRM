@@ -5,6 +5,7 @@ source_path: "/modules/marketing"
 ---
 
 <div v-pre>
+
 # Marketing
 
 License price:
@@ -16,11 +17,11 @@ Renews at $49 for 1 year of updates and support
 One-time purchase.
  [
  Terms
- ](https://onecrm.example.com/terms)
+ ](https://onecrm.pages.dev/terms)
 
 [
  Take the tour of Marketing →
- ](https://onecrm.example.com/features/email-marketing)
+ ](/site/features/email-marketing)
 
 Email marketing built into oneCRM. Send campaigns to the leads, contacts and newsletter subscribers already in your CRM, run sequences that follow up on their own, keep proof of consent, and see which emails brought in deals and paid invoices.
 

@@ -6,6 +6,7 @@ source_path: "/custom-crm"
 ---
 
 <div v-pre>
+
 # Build a custom CRM without starting from zero
 
 Whether you code it yourself or with AI, start from a complete self-hosted CRM and spend your time on the features only your business needs.
@@ -77,7 +78,7 @@ The bundled skills show your assistant how oneCRM modules, pages, and tables are
 
 [
  See the developer guide
- ](https://onecrm.example.com/for/developers)
+ ](/site/for/developers)
 
 ```
 # Scaffold your own module

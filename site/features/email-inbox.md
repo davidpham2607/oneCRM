@@ -5,6 +5,7 @@ source_path: "/features/email-inbox"
 ---
 
 <div v-pre>
+
 # Your email inbox, next to every deal
 
 Connect Gmail, Outlook, or any IMAP mailbox. Every conversation shows its contact, company, and open deals, and follow-up views tell you who is waiting on you.

@@ -5,6 +5,7 @@ source_path: "/blog/ongoing-promotion-save-19-in-the-next-10-days"
 ---
 
 <div v-pre>
+
 Over the few years, a couple of times was asked for a promotion and we took this suggestion under consideration, we are throwing a super sale to oneCRM 35% OFF from the regular price of $54.
 
 **The promotion is valid starting from 18th May till 28th May.**

@@ -6,6 +6,7 @@ source_path: "/alternatives"
 ---
 
 <div v-pre>
+
 # oneCRM compared with other CRMs
 
 Each comparison is sourced, dated and says when the other app is the better choice. oneCRM is $99 once, with no per-user fees. Here is what each alternative costs.

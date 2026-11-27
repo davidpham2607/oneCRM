@@ -5,6 +5,7 @@ source_path: "/vs/invoice-ninja"
 ---
 
 <div v-pre>
+
 # oneCRM vs Invoice Ninja
 
 Invoice Ninja is excellent, free self-hosted invoicing with native apps. Pick it if billing is all you need. oneCRM adds the rest of client work  -  leads and deals, support tickets, a knowledge base and modules  -  and includes Peppol and VeriFactu without a separate licence.
@@ -32,7 +33,7 @@ Invoice Ninja is excellent, free self-hosted invoicing with native apps. Pick it
 | Deal pipelines | Yes | No |
 | Web-to-lead forms | Yes | No |
 | Quotes with online approval | Yes | Yes |
-| Proposals | [Paid Proposals module](https://onecrm.example.com/features/proposals) | No |
+| Proposals | [Paid Proposals module](/site/features/proposals) | No |
 | **Billing & finance** | | |
 | Invoices, credit notes, online payments | Yes | Yes |
 | Recurring invoices | Yes | Yes, with auto-billing |
@@ -75,7 +76,7 @@ There is no official Invoice Ninja importer. Export clients and contacts from In
 Facts about Invoice Ninja were last checked on October 12, 2026. Spotted something out of date?
  [
  Tell us
- ](https://onecrm.example.com/contact)
+ ](/site/contact)
 
 - [
  Invoice Ninja licence (Elastic License 2.0)

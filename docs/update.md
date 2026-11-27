@@ -25,7 +25,7 @@ New versions and patches are listed on **Settings → System → Update** (`/adm
 
 The key you entered during installation is already saved. To change it:
 
-1. Copy the key from [**Account → Licenses**](https://onecrm.example.com/account/licenses) on onecrm.example.com, or from your order confirmation email.
+1. Copy the key from [**Account → Licenses**](https://onecrm.pages.dev/account/licenses) on onecrm.example.com, or from your order confirmation email.
 2. In oneCRM, open **License** from the sidebar logo menu, or click **Open license** on the Update page.
 3. Enter the key and click **Save license key**.
 
@@ -42,8 +42,8 @@ The key you entered during installation is already saved. To change it:
 | Problem | What to do |
 |---------|------------|
 | The license does not cover this installation | Open **License** from the sidebar logo menu to see why, then follow [License warnings](./license.md#license-warnings). |
-| Invalid or missing license key | Copy the key again from [Account → Licenses](https://onecrm.example.com/account/licenses) and [save it](./update.md#license-key). |
-| Support and update period expired | [Renew on onecrm.example.com](https://onecrm.example.com/account/licenses) to download new releases and patches. |
+| Invalid or missing license key | Copy the key again from [Account → Licenses](https://onecrm.pages.dev/account/licenses) and [save it](./update.md#license-key). |
+| Support and update period expired | [Renew on onecrm.example.com](https://onecrm.pages.dev/account/licenses) to download new releases and patches. |
 | PHP version too low for the release | Upgrade PHP with your host, then try again. |
 | The release does not exist | Refresh the Update page and try again, or do a [manual update](./update.md#manual-update). |
 | **Can't check for updates** | Your server cannot reach the update server. Ask your host to allow outbound HTTPS connections and check the PHP cURL extension. |
@@ -51,9 +51,9 @@ The key you entered during installation is already saved. To change it:
 
 ## Manual update
 
-Use a manual update when the one-click update is unavailable or fails. Read the [changelog](https://onecrm.example.com/changelog) first.
+Use a manual update when the one-click update is unavailable or fails. Read the [changelog](https://onecrm.pages.dev/changelog) first.
 
-1. Download the latest release from [your licenses page](https://onecrm.example.com/account/licenses).
+1. Download the latest release from [your licenses page](https://onecrm.pages.dev/account/licenses).
 2. If you customized any of these files, delete them from the release archive so your versions are kept:
    - `public/.htaccess`
    - `public/web.config`

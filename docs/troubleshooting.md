@@ -123,7 +123,7 @@ If **Cron Job User** in the same dialog shows another user, also move the cron j
 
 ## Still stuck?
 
-Open a ticket at [oneCRM Support](https://onecrm.example.com/support) with:
+Open a ticket at [oneCRM Support](https://onecrm.pages.dev/support) with:
 
 - Your oneCRM version (shown in Platform health)
 - Your PHP version

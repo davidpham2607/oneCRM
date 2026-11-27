@@ -17,7 +17,7 @@ Keep Classic running at its current address until you have checked your data in 
 
 ## 2. Install Classic Migrator
 
-1. Get the free module from the [Classic Migrator page](https://onecrm.example.com/modules/classic-migrator).
+1. Get the free module from the [Classic Migrator page](/site/modules/classic-migrator).
 2. In Next, open **Settings → System → Modules** and upload the ZIP.
 3. Open **Settings → System → Classic migration**.
 
@@ -30,7 +30,7 @@ Back up the Classic database and its `uploads` and `media` folders first. Then p
 
 The wizard shows what will move and what will not before it starts. Keep the page open while it runs. If you close it, open the same page to resume.
 
-See [Run a migration](https://onecrm.example.com/docs/classic-migrator/1.x/run-a-migration) for the file options, and [What moves](https://onecrm.example.com/docs/classic-migrator/1.x/what-moves) for the full list.
+See [Run a migration](/docs/classic-migrator/1.x/run-a-migration) for the file options, and [What moves](/docs/classic-migrator/1.x/what-moves) for the full list.
 
 ## 4. After the migration
 
@@ -38,7 +38,7 @@ See [Run a migration](https://onecrm.example.com/docs/classic-migrator/1.x/run-a
 - Set up email, payment gateway keys and the [cron job](./cron.md) in Next. These settings are not moved.
 - Keep Classic Migrator installed while people still sign in with Classic passwords or open Classic invoice and estimate links.
 
-[After migration](https://onecrm.example.com/docs/classic-migrator/1.x/after-migration) explains each of these.
+[After migration](/docs/classic-migrator/1.x/after-migration) explains each of these.
 
 
 </div>

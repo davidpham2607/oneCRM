@@ -5,6 +5,7 @@ source_path: "/privacy"
 ---
 
 <div v-pre>
+
 oneCRM ("we", "us") operates onecrm.example.com. This policy explains how we collect, use, and protect personal data when you visit our website, create an account, purchase a licence, or contact support.
 
 ## Your self-hosted CRM and this website
@@ -87,12 +88,12 @@ Support messages, attachments, and bug reports are kept for handling the issue, 
 
 ## Your rights
 
-Depending on the law that applies, you may have rights to access, correct, delete, or receive a portable copy of your personal data, restrict processing, object to processing based on legitimate interests, and withdraw consent. Submit a request through our [Contact](https://onecrm.example.com/contact) page; you do not need an active support licence to make a privacy request.
+Depending on the law that applies, you may have rights to access, correct, delete, or receive a portable copy of your personal data, restrict processing, object to processing based on legitimate interests, and withdraw consent. Submit a request through our [Contact](/site/contact) page; you do not need an active support licence to make a privacy request.
 
 We may ask for information needed to verify your identity and will respond within the period required by applicable law. Some rights have legal exceptions. You may also complain to the data-protection authority responsible for your country or region.
 
 ## Contact
 
-Privacy questions or data subject requests: [Contact us](https://onecrm.example.com/contact).
+Privacy questions or data subject requests: [Contact us](/site/contact).
 
 </div>

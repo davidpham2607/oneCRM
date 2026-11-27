@@ -19,7 +19,7 @@ If your host does not let you change the document root, see the [SiteGround](./i
 
 ## Upload files
 
-1. Download the latest release from [your licenses page](https://onecrm.example.com/account/licenses) on onecrm.example.com. Log in with the account your license is linked to.
+1. Download the latest release from [your licenses page](https://onecrm.pages.dev/account/licenses) on onecrm.example.com. Log in with the account your license is linked to.
 2. Upload and extract the archive on your server (for example `public_html/crm/`).
 3. Check that the folder contains `public/`, `modules/`, `storage/`, and `artisan`.
 

@@ -5,6 +5,7 @@ source_path: "/changelog"
 ---
 
 <div v-pre>
+
 ## Version 1.1.0
 
 November 25, 2026

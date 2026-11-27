@@ -5,6 +5,7 @@ source_path: "/features/invoicing"
 ---
 
 <div v-pre>
+
 # Get paid without chasing every invoice
 
 oneCRM is a CRM with invoicing built in. Send an invoice your customer can pay online, set up recurring invoices and payment reminders, then see what has been paid and what still needs attention.
@@ -153,7 +154,7 @@ INV-0023 · Miller & Co
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 ### Quotes & estimates

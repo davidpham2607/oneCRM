@@ -5,6 +5,7 @@ source_path: "/blog/mydata-aade-connector-module"
 ---
 
 <div v-pre>
+
 It contains a complete documentation of three parts (**1. Module’s installation - 2. Module’s configuration - 3. Detailed myDATA REST API documentation**) and it only requires a myDATA REST API [subscription account](https://www1.aade.gr/saadeapps2/bookkeeper-web/bookkeeper/) from AADE, in order to be able to sync your Invoices between oneCRM and myDATA.
 
 It is built based on myDATA REST API Documentation v1.0 and it offers dynamic options regarding taxes and it works for all **Invoice** actions. At the same time, it handles the most popular Greek VAT classes.

@@ -5,7 +5,8 @@ source_path: "/blog/added-ability-to-add-your-own-custom-menu-items"
 ---
 
 <div v-pre>
-The process is very easy you just need to follow the following [knowledge base article](https://onecrm.example.com/docs/classic/3.x/customization/add-admin-menu-items)
+
+The process is very easy you just need to follow the following [knowledge base article](/docs/classic/3.x/customization/add-admin-menu-items)
 
 ## myDATA AADE connector module
 

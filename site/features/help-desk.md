@@ -5,6 +5,7 @@ source_path: "/features/help-desk"
 ---
 
 <div v-pre>
+
 What AI can do here
 
 - Inbound email classification
@@ -154,7 +155,7 @@ Hi Olivia  -  INV-0039 was generated as an empty PDF. We are rebuilding it and w
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 What AI can do here

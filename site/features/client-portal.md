@@ -5,6 +5,7 @@ source_path: "/features/client-portal"
 ---
 
 <div v-pre>
+
 # Give clients one place to pay, approve, and ask
 
 oneCRM is a CRM with a client portal built in. Customers pay invoices, approve quotes, check project progress, and ask for help under your branding.
@@ -167,7 +168,7 @@ Current phase: Design
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 ### Invoicing & payments

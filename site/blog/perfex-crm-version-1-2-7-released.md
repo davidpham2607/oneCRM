@@ -5,6 +5,7 @@ source_path: "/blog/perfex-crm-version-1-2-7-released"
 ---
 
 <div v-pre>
+
 We are trying to give oneCRM buyers the best UI experience and usage. Version 1.2.7 comes with few improvements for the UI like in the Settings area and the Customer Profile area, minor bugs fixed and new features.
 
 We know that you all want the features you need but unfortunataly this is not possible in such a short time. We are giving our best to optimize and in the same time add new features to the software. Our main goal for this version was to simplify the install process and the update process. For the update process we created new file in application/config/app-config.php to store all the necessary settings that are required for oneCRM to work properly. The installation will come with simple app-config-sample.php file that you dont need to edit and this will be handled in the install proces, after the installer finish the installation this file will be renamed to app-config.php and during the update this file wont be replaced. However **when upgrading to version 1.2.7 you will still need to delete config.php and database.php** after that the update script will handle the necessary changes.
@@ -19,11 +20,11 @@ In the previous versions **there was no ability to edit the notes**, this abilit
 
 The **company custom fields** located in Setup->Settings->Company are all moved together with all custom fields in Setup->Custom Fields (the update will handle this). Moving the fields with the other custom fields gives the ability users to add non alpha numeric characters there because the custom fields for company were limited.
 
-**Added password email templates** to Setup->Email Templates. These templates were located in files you can read more [here](https://onecrm.example.com/docs/classic/3.x/customization/customers-templates). However the **new email templates will be using after you delete the my_email (if you have overwrited the password templates) and email folder from application/views/**. Its not possible to handle the update for the files located email templates and **you will need to transfer the content manualy to Setup->Email Templates**, once you transfer and **delete the folder my_email (if you have overwrited the password templates) and email the system will start using the password email templates located in Setup->Email Templates**. oneCRM will continue to support the folders email templates if exists for a specific time. Its highly recomended to switch to database related email templates..
+**Added password email templates** to Setup->Email Templates. These templates were located in files you can read more [here](/docs/classic/3.x/customization/customers-templates). However the **new email templates will be using after you delete the my_email (if you have overwrited the password templates) and email folder from application/views/**. Its not possible to handle the update for the files located email templates and **you will need to transfer the content manualy to Setup->Email Templates**, once you transfer and **delete the folder my_email (if you have overwrited the password templates) and email the system will start using the password email templates located in Setup->Email Templates**. oneCRM will continue to support the folders email templates if exists for a specific time. Its highly recomended to switch to database related email templates..
 
 A couple **new email templates** addeed including sending welcome email to staff when you create the staff member including the password, **new template and option is also added to send email to customer contacts when creating/editing the projects that new project is added to their company.**
 
-You can read more about all changes [here](https://onecrm.example.com/docs/classic/3.x/changelog/version-1-2-7-released).
+You can read more about all changes [here](/docs/classic/3.x/changelog/version-1-2-7-released).
 
 We will continue developing new features and improving the existing ones in time.
 

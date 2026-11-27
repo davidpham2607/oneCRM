@@ -5,13 +5,14 @@ source_path: "/refund-policy"
 ---
 
 <div v-pre>
+
 Our products are digital downloads delivered immediately. Once delivered, purchases are non-refundable except where required by law and in the limited circumstances described below.
 
 ## Website purchases
 
 For digital products purchased directly on this website, refund requests submitted within 14 days of the order completion date are reviewed case-by-case. Approval is not automatic.
 
-To request a refund, [contact us](https://onecrm.example.com/contact) with your order reference. If you have an active support licence, sign in and open a support ticket for faster handling.
+To request a refund, [contact us](/site/contact) with your order reference. If you have an active support licence, sign in and open a support ticket for faster handling.
 
 ## EU right of withdrawal
 
@@ -41,7 +42,7 @@ Approved refunds are settled through Paddle, and Paddle's buyer terms also apply
 
 ## Chargebacks
 
-If you believe a charge is wrong, please [contact us](https://onecrm.example.com/contact) first  -  we can usually resolve it faster than your bank. Initiating a chargeback or payment dispute without contacting us may result in suspension or termination of the related licence while the dispute is investigated.
+If you believe a charge is wrong, please [contact us](/site/contact) first  -  we can usually resolve it faster than your bank. Initiating a chargeback or payment dispute without contacting us may result in suspension or termination of the related licence while the dispute is investigated.
 
 ## Digital goods
 
@@ -57,6 +58,6 @@ Orders outside the review period are generally non-refundable. Chargebacks may i
 
 ## Contact
 
-Refund requests: [Contact us](https://onecrm.example.com/contact). Billing disputes: [Paddle buyer support](https://paddle.net).
+Refund requests: [Contact us](/site/contact). Billing disputes: [Paddle buyer support](https://paddle.net).
 
 </div>

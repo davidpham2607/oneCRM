@@ -5,6 +5,7 @@ source_path: "/features/mcp"
 ---
 
 <div v-pre>
+
 # Run your CRM from the AI you already use
 
 Connect Claude, ChatGPT, Cursor, or VS Code to oneCRM. Ask about leads, deals, tickets, and invoices in plain language, then let the assistant update records with your permissions.
@@ -277,7 +278,7 @@ Find invoices and credit notes, and edit them while they are still drafts.
 Your CRM stays on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence. AI clients only see what the signed-in user can see.
 
 What AI can do here

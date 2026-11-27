@@ -5,6 +5,7 @@ source_path: "/modules/classic-migrator"
 ---
 
 <div v-pre>
+
 # Classic Migrator
 
 License price:
@@ -14,7 +15,7 @@ Free
 Free to claim with an account.
  [
  Terms
- ](https://onecrm.example.com/terms)
+ ](https://onecrm.pages.dev/terms)
 
 Classic Migrator moves your oneCRM Classic data into a fresh oneCRM installation. It is free: install it, point it at your Classic folder or a SQL dump, and bring over the records your team works with every day.
 

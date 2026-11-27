@@ -5,6 +5,7 @@ source_path: "/vs/espocrm"
 ---
 
 <div v-pre>
+
 # oneCRM vs EspoCRM
 
 EspoCRM is a flexible, open-source sales CRM: pick it if you want to model your own entities and fields. Its quotes, invoices, projects, workflows and reports are paid extensions on a time-limited licence. oneCRM includes billing, projects, time tracking, expenses and e-invoicing in one one-time price.
@@ -33,7 +34,7 @@ EspoCRM is a flexible, open-source sales CRM: pick it if you want to model your 
 | Custom entities, fields and relationships | Limited | Yes |
 | Email, calendar and mass email | Calendar and email inbox; mass email in the paid Marketing module | Yes |
 | Quotes | Yes | Paid Sales Pack |
-| Proposals | [Paid Proposals module](https://onecrm.example.com/features/proposals) | No |
+| Proposals | [Paid Proposals module](/site/features/proposals) | No |
 | **Billing & finance** | | |
 | Invoices, credit notes, online payments | Yes | Invoices in the paid Sales Pack |
 | Recurring invoices | Yes | No |
@@ -72,7 +73,7 @@ There is no official EspoCRM importer. Export accounts, contacts and leads from 
 Facts about EspoCRM were last checked on October 12, 2026. Spotted something out of date?
  [
  Tell us
- ](https://onecrm.example.com/contact)
+ ](/site/contact)
 
 - [
  EspoCRM README (licence, requirements)

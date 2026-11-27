@@ -5,6 +5,7 @@ source_path: "/vs/suitecrm"
 ---
 
 <div v-pre>
+
 # oneCRM vs SuiteCRM
 
 SuiteCRM is a deep, free enterprise sales CRM: pick it for campaigns, complex workflows and Salesforce-style breadth, with a VPS to run it. oneCRM is lighter to host and built around client work  -  projects, time, recurring invoices, expenses, tickets and a client portal  -  with e-invoicing included.
@@ -32,7 +33,7 @@ SuiteCRM is a deep, free enterprise sales CRM: pick it for campaigns, complex wo
 | Web-to-lead forms | Yes | Yes |
 | Marketing campaigns and surveys | Campaigns in the paid Marketing module; no surveys | Yes |
 | Quotes | Yes | Yes |
-| Proposals | [Paid Proposals module](https://onecrm.example.com/features/proposals) | No |
+| Proposals | [Paid Proposals module](/site/features/proposals) | No |
 | Contracts | No | Yes |
 | **Billing & finance** | | |
 | Invoices | Yes | Yes |
@@ -73,7 +74,7 @@ There is no official SuiteCRM importer. Export accounts, contacts and leads from
 Facts about SuiteCRM were last checked on October 12, 2026. Spotted something out of date?
  [
  Tell us
- ](https://onecrm.example.com/contact)
+ ](/site/contact)
 
 - [
  SuiteCRM Core README (licence, stack)

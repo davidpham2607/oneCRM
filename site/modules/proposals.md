@@ -5,6 +5,7 @@ source_path: "/modules/proposals"
 ---
 
 <div v-pre>
+
 # Proposals
 
 License price:
@@ -16,11 +17,11 @@ Renews at $39 for 1 year of updates and support
 One-time purchase.
  [
  Terms
- ](https://onecrm.example.com/terms)
+ ](https://onecrm.pages.dev/terms)
 
 [
  Take the tour of Proposals →
- ](https://onecrm.example.com/features/proposals)
+ ](/site/features/proposals)
 
 Proposals turns your offers into designed sales documents. Instead of a form with line items, you write the whole offer in a full-page block editor, present the price where it makes the case, and let the customer accept it by signing online.
 

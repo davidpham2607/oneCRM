@@ -5,6 +5,7 @@ source_path: "/modules/announcements"
 ---
 
 <div v-pre>
+
 # Announcements
 
 License price:
@@ -14,7 +15,7 @@ Free
 Free to claim with an account.
  [
  Terms
- ](https://onecrm.example.com/terms)
+ ](https://onecrm.pages.dev/terms)
 
 Announcements lets you post a short notice, such as "Office closed on Friday" or "Planned maintenance on Sunday night", to your staff, to your customers in the customer portal, or to both. It is free and needs no other modules.
 

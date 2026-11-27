@@ -5,6 +5,7 @@ source_path: "/features/workflow-automation"
 ---
 
 <div v-pre>
+
 What AI can do here
 
 - Plain-language builder
@@ -99,7 +100,7 @@ Automation Templates
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 ### Marketing

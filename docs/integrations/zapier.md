@@ -64,7 +64,7 @@ These endpoints appear in **Settings → Integrations → Webhooks** with the sc
 | Problem | Fix |
 |---------|-----|
 | **Save a valid license key before retrieving the Zapier invitation.** | Save your key in the **License** dialog, then try again. |
-| **The Zapier invitation is not available right now.** | Your server could not get an invitation from onecrm.example.com. Try again later, or contact [support](https://onecrm.example.com/support). |
+| **The Zapier invitation is not available right now.** | Your server could not get an invitation from onecrm.example.com. Try again later, or contact [support](https://onecrm.pages.dev/support). |
 | **The personal access token you supplied is incorrect** | The token is wrong or was revoked. Create a new token and reconnect. |
 | **Your account is not authorized to perform API requests.** | Turn on **Enable API access** for the token user. |
 | Zapier cannot reach your CRM | **Host** must start with `https://`, have no trailing slash, and be reachable from the internet. |

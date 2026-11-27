@@ -5,6 +5,7 @@ source_path: "/features/gdpr"
 ---
 
 <div v-pre>
+
 # Handle privacy requests on a CRM you host
 
 Record consent and handle requests for data exports or deletion in one place. Customers can send requests from your portal, and your team can track each step.
@@ -98,7 +99,7 @@ Data erasure
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 ### Marketing

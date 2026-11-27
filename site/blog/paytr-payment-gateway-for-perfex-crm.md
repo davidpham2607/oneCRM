@@ -5,6 +5,7 @@ source_path: "/blog/paytr-payment-gateway-for-perfex-crm"
 ---
 
 <div v-pre>
+
 In collaboration with [paytr.com](http://paytr.com) they created the PayTR gateway in-house and published the gateway on Github, yes, **it’s free**, thanks to PayTR.
 
 Customers using the PayTR payment method allow them to pay securely through the store’s PayTR services. Your customers can pay with multiple cards such as American Express, Visa Electron, Visa Debit, MasterCard, MasterCard Debit, etc.

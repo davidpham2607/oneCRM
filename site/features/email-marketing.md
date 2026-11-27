@@ -5,6 +5,7 @@ source_path: "/features/email-marketing"
 ---
 
 <div v-pre>
+
 # Email marketing that knows who paid
 
 Campaigns and automated sequences that live next to your leads, deals, and invoices, so every won deal and paid invoice is credited to the email that earned it.
@@ -270,7 +271,7 @@ One-time payment on onecrm.example.com
 - Renews at $49 for 1 year of updates and support
 
 New to oneCRM?
- [Get oneCRM](https://onecrm.example.com/pricing)
+ [Get oneCRM](/site/pricing)
 
 ### Proposals
 

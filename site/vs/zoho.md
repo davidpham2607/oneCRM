@@ -5,6 +5,7 @@ source_path: "/vs/zoho"
 ---
 
 <div v-pre>
+
 # oneCRM vs Zoho
 
 Zoho is a huge cloud suite: pick it if you want nothing to host, native mobile apps and thousands of integrations. But CRM, invoicing, projects and help desk are separate apps and plans. oneCRM puts them in one self-hosted app for a one-time price, with no per-user fees.
@@ -29,8 +30,8 @@ Zoho is a huge cloud suite: pick it if you want nothing to host, native mobile a
 | Deal pipelines | Yes | Yes |
 | Web-to-lead forms | Yes | Yes |
 | Quotes | Yes | CRM Professional and up |
-| Email inbox in the CRM | [Built in: Gmail, Outlook and IMAP](https://onecrm.example.com/features/email-inbox) | Yes |
-| Marketing email campaigns | [Paid Marketing module](https://onecrm.example.com/features/email-marketing) | Zoho Campaigns (separate app) |
+| Email inbox in the CRM | [Built in: Gmail, Outlook and IMAP](/site/features/email-inbox) | Yes |
+| Marketing email campaigns | [Paid Marketing module](/site/features/email-marketing) | Zoho Campaigns (separate app) |
 | **Billing & finance** | | |
 | Invoices and online payments | Yes | CRM Professional, or Zoho Invoice / Books |
 | Recurring invoices | Yes | Zoho Invoice / Books |
@@ -70,7 +71,7 @@ There is no official Zoho importer. Export leads, accounts and contacts from Zoh
 Facts about Zoho were last checked on October 13, 2026. Spotted something out of date?
  [
  Tell us
- ](https://onecrm.example.com/contact)
+ ](/site/contact)
 
 - [
  Zoho CRM editions and prices

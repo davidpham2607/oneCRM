@@ -5,6 +5,7 @@ source_path: "/features/ai"
 ---
 
 <div v-pre>
+
 What AI can do here
 
 - Inbound classification
@@ -86,7 +87,7 @@ oneCRM does not sell AI credits. Add a key from the provider you trust, and requ
 
 Prefer to work from Claude or ChatGPT?
  [The MCP server connects them to your records
- →](https://onecrm.example.com/features/mcp)
+ →](/site/features/mcp)
 
 1. 01
 
@@ -281,12 +282,12 @@ Less typing on the records your team touches all day.
 
 Describe what you want and start from a draft instead of a blank form.
 
-[Every switch, listed in the docs →](https://onecrm.example.com/docs/1.x/ai#features)
+[Every switch, listed in the docs →](/docs/1.x/ai#features)
 
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence. Your records only leave your server when a feature you turned on runs.
 
 What AI can do here

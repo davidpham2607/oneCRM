@@ -6,6 +6,7 @@ source_path: "/about"
 ---
 
 <div v-pre>
+
 # We build self-hosted CRM software for client businesses
 
 We help agencies, consultants, and service teams manage client work in one place, on a server they choose.
@@ -17,7 +18,7 @@ oneCRM Classic remains the mature CodeIgniter edition  -  trusted by buyers who 
 oneCRM is a
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  you can install on your own server, update on your schedule, and extend with modules. Our job is to keep the product moving, document it clearly, and support the people who depend on it every day.
 
 ### Your business data should stay yours

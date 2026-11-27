@@ -6,6 +6,7 @@ source_path: "/pricing"
 ---
 
 <div v-pre>
+
 # Simple, one-time pricing
 
 Pay once for your oneCRM licence, with 1 year of updates and support included. Host it on your own server.
@@ -38,11 +39,11 @@ Download ready after checkout
  ·
  No per-seat fees
 
-[Terms](https://onecrm.example.com/terms)
+[Terms](https://onecrm.pages.dev/terms)
  ·
- [Privacy](https://onecrm.example.com/privacy)
+ [Privacy](https://onecrm.pages.dev/privacy)
  ·
- [Support Policy](https://onecrm.example.com/support-policy)
+ [Support Policy](https://onecrm.pages.dev/support-policy)
 
 ## Looking for oneCRM Classic?
 

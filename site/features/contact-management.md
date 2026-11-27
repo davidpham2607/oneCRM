@@ -5,6 +5,7 @@ source_path: "/features/contact-management"
 ---
 
 <div v-pre>
+
 # See every customer in one place
 
 Keep contacts, company details, and customer history together. Your team can see who they are helping, what happened last, and how to bill them.
@@ -249,7 +250,7 @@ Account manager notes
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 What AI can do here

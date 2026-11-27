@@ -5,6 +5,7 @@ source_path: "/for/consultants"
 ---
 
 <div v-pre>
+
 # Self-hosted CRM for consultants
 
 oneCRM keeps consulting leads, deals, and client history alongside your advisory work. Prepare quotes, record consulting hours and travel costs, and turn billable work into invoices.

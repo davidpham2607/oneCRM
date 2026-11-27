@@ -16,7 +16,7 @@ You don't need to install PHP or set up a cron job: Docker runs everything oneCR
 
 ## Prepare the configuration
 
-1. Download the latest release from [your licenses page](https://onecrm.example.com/account/licenses) on onecrm.example.com and extract it on your server.
+1. Download the latest release from [your licenses page](https://onecrm.pages.dev/account/licenses) on onecrm.example.com and extract it on your server.
 2. Open the `docker/production/` folder of the extracted release. Run every `docker compose` command on this page from that folder.
 3. Copy the example configuration:
 

@@ -6,6 +6,7 @@ source_path: "/"
 ---
 
 <div v-pre>
+
 # Self-hosted CRM for sales, projects, and customer support
 
 oneCRM helps service businesses capture leads, manage sales pipelines, deliver projects, and send invoices in one place. Give clients a portal to pay, accept quotes, and request support.
@@ -359,7 +360,7 @@ A disabled module disappears from the menus and settings, so your team sees only
 - Turn it back on any time
 A disabled module keeps its records. Enable it again and they are where you left them.
 - Add more when you need it
-Add [Proposals](https://onecrm.example.com/features/proposals) or [Marketing](https://onecrm.example.com/features/email-marketing), sold separately, or build your own module.
+Add [Proposals](/site/features/proposals) or [Marketing](/site/features/email-marketing), sold separately, or build your own module.
 
 Modules
 
@@ -519,15 +520,15 @@ Sending invoices
 Billing
 
 - **
-[One customer record for the whole team.](https://onecrm.example.com/features/contact-management)
+[One customer record for the whole team.](/site/features/contact-management)
 **
  Leads from Zapier, forms, the API, and MCP land on one contact.
 - **
-[Host it on a server you choose.](https://onecrm.example.com/self-hosted-crm)
+[Host it on a server you choose.](https://onecrm.pages.dev/self-hosted-crm)
 **
  One-time licence. Guided installer and one-click updates.
 - **
-[Use the AI you already pay for.](https://onecrm.example.com/features/ai)
+[Use the AI you already pay for.](/site/features/ai)
 **
  Score leads, draft replies, and read receipts  -  where you already work.
 
@@ -608,7 +609,7 @@ Give clients a portal with your branding. They can pay invoices, accept quotes, 
 
 [
  Explore the customer portal
- ](https://onecrm.example.com/features/client-portal)
+ ](/site/features/client-portal)
 
 Dashboard
 
@@ -650,7 +651,7 @@ Connect Gmail, Outlook, or any IMAP mailbox. Each conversation is linked to its 
 
 [
  Explore the email inbox
- ](https://onecrm.example.com/features/email-inbox)
+ ](/site/features/email-inbox)
 
 Needs reply
 
@@ -752,7 +753,7 @@ Describe a routine job, such as replying to an unanswered weekend ticket. AI dra
 
 [
  Explore automations
- ](https://onecrm.example.com/features/workflow-automation)
+ ](/site/features/workflow-automation)
 
 Describe your automation
 

@@ -5,7 +5,8 @@ source_path: "/blog/whats-new-in-version-1-9-2"
 ---
 
 <div v-pre>
-**To check the full change log click [here](https://onecrm.example.com/docs/classic/3.x/changelog/version-1-9-2)**
+
+**To check the full change log click [here](/docs/classic/3.x/changelog/version-1-9-2)**
 
 #### **Custom address format for customers and company information.**
 
@@ -14,7 +15,7 @@ We know that in different countries the address format must be formatted differe
 1. To adjust the address format for **customers** navigate to **Setup->Settings->Customers**
 2. To adjust the address format for **company information** navigate to **Setup->Settings->Company**
 
-**NOTE: If before you updated you were using [my_ prefixed files](https://onecrm.example.com/docs/classic/3.x/customization/edit-view-files-without-messing-the-core-view-files) for invoices, estimates, payments,statements, you will need to switch to the original files or modify my_ prefixed files to be compatible with this feature. Making the my_ prefixed files compatible will be required if you plan to add new custom fields for customers or company.**
+**NOTE: If before you updated you were using [my_ prefixed files](/docs/classic/3.x/customization/edit-view-files-without-messing-the-core-view-files) for invoices, estimates, payments,statements, you will need to switch to the original files or modify my_ prefixed files to be compatible with this feature. Making the my_ prefixed files compatible will be required if you plan to add new custom fields for customers or company.**
 
 #### **Scroll Responsive Tables**
 
@@ -24,7 +25,7 @@ We added an option in **Setup->Settings->Misc->Activate Scroll Responsive Tables
 
 #### **Items Rates Based On Currency Usage**
 
-In previous versions, the item had a field for a rate which you was using as general rate eq for your base [currency](https://onecrm.example.com/docs/classic/3.x/setup-and-configuration/currencies), but the problem was that in case customer has different currency than the base currency the rate won’t be accurate when selecting the item from the dropdown when creating invoice/estimate/proposal.
+In previous versions, the item had a field for a rate which you was using as general rate eq for your base [currency](/docs/classic/3.x/setup-and-configuration/currencies), but the problem was that in case customer has different currency than the base currency the rate won’t be accurate when selecting the item from the dropdown when creating invoice/estimate/proposal.
 
 oneCRM can bill in your base currency or in the customer currency if configured in the customer profile.
 
@@ -46,7 +47,7 @@ After you click a dropdown will be shown and you will be able to re-use your che
 
 Customers users now will be able to use PayU Money gateway to gather payments from their respective customers. The payment gateway options are located in **Setup->Settings->Payment Gateways.**
 
-**To check the full change log click [here](https://onecrm.example.com/docs/classic/3.x/changelog/version-1-9-2)**
+**To check the full change log click [here](/docs/classic/3.x/changelog/version-1-9-2)**
 
 ## myDATA AADE connector module
 

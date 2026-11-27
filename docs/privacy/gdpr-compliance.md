@@ -9,7 +9,7 @@ It adds a consent registry, a request queue for staff, a public request form, an
 > **You are the data controller**
 > oneCRM is self-hosted software, so the business that installs it is the data controller under GDPR, not the software vendor. These features help, but how you comply is your responsibility. Work with legal counsel to determine what applies to you.
 >
-> For a product overview, see the [GDPR & privacy feature page](https://onecrm.example.com/features/gdpr).
+> For a product overview, see the [GDPR & privacy feature page](/site/features/gdpr).
 
 ## Configure privacy settings
 

@@ -5,6 +5,7 @@ source_path: "/for/developers"
 ---
 
 <div v-pre>
+
 # Build oneCRM modules with Laravel and Livewire
 
 Extend oneCRM with custom Laravel and Livewire modules. Add screens and connect to existing CRM features without changing core files.
@@ -25,11 +26,11 @@ Every module ships its own routes, migrations, translations, views, and a module
 
 [
  Getting started guide
- ](https://onecrm.example.com/docs/1.x/modules/getting-started)
+ ](/docs/1.x/modules/getting-started)
  · 
 [
  Module definition
- ](https://onecrm.example.com/docs/1.x/modules/module-definition)
+ ](/docs/1.x/modules/module-definition)
 
 - ├── app/AcmeReportsModule.php
 - ├── app/Models/Report.php
@@ -74,11 +75,11 @@ Render with
 
 [
  Livewire components
- ](https://onecrm.example.com/docs/1.x/modules/livewire-components)
+ ](/docs/1.x/modules/livewire-components)
  · 
 [
  Resources & tables
- ](https://onecrm.example.com/docs/1.x/modules/resources)
+ ](/docs/1.x/modules/resources)
 
 ```
 <?php
@@ -109,15 +110,15 @@ Register menu items, settings pages, dashboard widgets, and global search from y
 
 [
  Hooks & filters
- ](https://onecrm.example.com/docs/1.x/modules/extending-other-modules#hooks-and-filters)
+ ](/docs/1.x/modules/extending-other-modules#hooks-and-filters)
  · 
 [
  UI slots
- ](https://onecrm.example.com/docs/1.x/modules/extending-other-modules#ui-slots)
+ ](/docs/1.x/modules/extending-other-modules#ui-slots)
  · 
 [
  Admin integration
- ](https://onecrm.example.com/docs/1.x/modules/admin-integration)
+ ](/docs/1.x/modules/admin-integration)
 
 ```
 // Let other modules react to your events
@@ -139,7 +140,7 @@ $module->page(fn (Page $page, ContactShow $component) => $page
 oneCRM ships with .ai/skills that teach assistants how to scaffold modules, build pages and tables, register widgets, and follow oneCRM conventions  -  so generated code matches the platform instead of generic Laravel.
 
 - .ai/skills/module-development/
-- [.ai/skills/payment-gateway-development/](https://onecrm.example.com/docs/1.x/modules/payment-gateways)
+- [.ai/skills/payment-gateway-development/](/docs/1.x/modules/payment-gateways)
 
 ```
 ---
@@ -169,12 +170,12 @@ Contacts, companies, billing profiles, and a timeline for every relationship.
 Connecting another tool to your CRM?
  [
  Read the CRM API reference
- ](https://onecrm.example.com/docs/1.x/api)
+ ](/docs/1.x/api)
 
 Thinking about building your own CRM from scratch?
  [
  Why start from oneCRM instead
- ](https://onecrm.example.com/custom-crm)
+ ](https://onecrm.pages.dev/custom-crm)
 
 ## A CRM workflow, step by step: from first lead to paid invoice
 

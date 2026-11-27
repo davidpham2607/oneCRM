@@ -5,6 +5,7 @@ source_path: "/features/quotes"
 ---
 
 <div v-pre>
+
 # Let customers accept a quote in one click
 
 Send a clear quote your customer can review and accept online. Offer optional items on estimates, then turn the agreed work into an invoice.
@@ -139,7 +140,7 @@ Line Items
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 ### Proposals

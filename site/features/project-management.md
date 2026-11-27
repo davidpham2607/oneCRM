@@ -5,6 +5,7 @@ source_path: "/features/project-management"
 ---
 
 <div v-pre>
+
 # Start the next project from a template, not from scratch
 
 Start with a project template, give everyone a clear task, and track the time you spend. Turn finished work into an invoice while the details are still at hand.
@@ -208,7 +209,7 @@ Line Items
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 What AI can do here

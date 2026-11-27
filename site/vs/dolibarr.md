@@ -5,6 +5,7 @@ source_path: "/vs/dolibarr"
 ---
 
 <div v-pre>
+
 # oneCRM vs Dolibarr
 
 Dolibarr is a free, modular ERP: pick it if you need accounting, stock, manufacturing or HR in one open-source app. oneCRM is built for service businesses  -  leads, quotes, projects, billing, tickets and a client portal in one modern interface, with e-invoicing, AI and automations included for a one-time price.
@@ -31,7 +32,7 @@ Dolibarr is a free, modular ERP: pick it if you need accounting, stock, manufact
 | Deal pipelines | Yes | Yes |
 | Web-to-lead forms | Yes | Yes |
 | Quotes with online acceptance | Yes | Yes |
-| Proposals | [Paid Proposals module](https://onecrm.example.com/features/proposals) | Yes |
+| Proposals | [Paid Proposals module](/site/features/proposals) | Yes |
 | Contracts | No | Yes |
 | **Billing & finance** | | |
 | Invoices, credit notes, online payments | Yes | Yes |
@@ -75,7 +76,7 @@ There is no official Dolibarr importer. Export third parties and contacts from D
 Facts about Dolibarr were last checked on October 12, 2026. Spotted something out of date?
  [
  Tell us
- ](https://onecrm.example.com/contact)
+ ](/site/contact)
 
 - [
  Dolibarr README (licence, modules, DoliStore)

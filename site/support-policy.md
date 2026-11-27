@@ -5,6 +5,7 @@ source_path: "/support-policy"
 ---
 
 <div v-pre>
+
 Every paid licence includes ticket support for a set period: 1 year for oneCRM, and 6 months for oneCRM Classic website licences. Support is per product, so a module licence covers tickets about that module only.
 
 ## What support includes
@@ -26,12 +27,12 @@ Every paid licence includes ticket support for a set period: 1 year for oneCRM, 
 ## Before you open a ticket
 
 - Update to the latest version. The issue may already be fixed.
-- Check the [documentation](https://onecrm.example.com/docs/1.x/introduction).
-- Make sure your server meets the [requirements](https://onecrm.example.com/docs/1.x/requirements).
+- Check the [documentation](/docs/1.x/introduction).
+- Make sure your server meets the [requirements](/docs/1.x/requirements).
 
 ## How to get support
 
-Sign in and open a ticket from the [Contact](https://onecrm.example.com/contact) page. Include the steps to reproduce the issue and any error messages. Tickets are our only support channel.
+Sign in and open a ticket from the [Contact](/site/contact) page. Include the steps to reproduce the issue and any error messages. Tickets are our only support channel.
 
 ## Response time
 

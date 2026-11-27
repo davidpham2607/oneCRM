@@ -5,6 +5,7 @@ source_path: "/features/expense-management"
 ---
 
 <div v-pre>
+
 What AI can do here
 
 - Receipt extraction
@@ -258,7 +259,7 @@ CEO
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 ### Invoicing & payments

@@ -5,6 +5,7 @@ source_path: "/blog/version-1-0-6-released"
 ---
 
 <div v-pre>
+
 Here is a list of all changes made in version 1.0.6.
 
 - Added ability to attach invoice attachments to email
@@ -30,7 +31,7 @@ Here is a list of all changes made in version 1.0.6.
 - Added tasks email templates
 - Added invoice shipping details
 - Added lead status color - Will be also used in the kan ban
-- [Added leads email integration - auto importing leads from email](https://onecrm.example.com/docs/classic/3.x/leads/leads-email-integration)
+- [Added leads email integration - auto importing leads from email](/docs/classic/3.x/leads/leads-email-integration)
 - Added google calendar integration - Possible options: Main calendar for all staff and calendar by department - if is set main calendar and calendar for department will be shown events from both calendars for this staff members.
 - Separated invoice billing details
 - Moved settings menu to left side

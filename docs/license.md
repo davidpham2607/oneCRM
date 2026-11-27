@@ -12,7 +12,7 @@ One license covers:
 - **Staging installations** on the production domain or its subdomains. For production at `crm.example.com`, staging at `staging.example.com` or `test.crm.example.com` is covered.
 - **Local installations** on your own machine, such as `localhost` or `.test` addresses.
 
-Each additional live installation needs its own license. See the [terms](https://onecrm.example.com/terms).
+Each additional live installation needs its own license. See the [terms](https://onecrm.pages.dev/terms).
 
 ## Register your production installation
 
@@ -24,7 +24,7 @@ The installer saves your license key, but the installation still needs to be reg
 
 The first production installation you register gets the production seat. Until then, the CRM shows a license warning and does not download updates.
 
-You can also register on onecrm.example.com: open [**Account → Licenses**](https://onecrm.example.com/account/licenses), click **Register installation**, and enter the installation URL and the **Identification key** shown in the **License** dialog.
+You can also register on onecrm.example.com: open [**Account → Licenses**](https://onecrm.pages.dev/account/licenses), click **Register installation**, and enter the installation URL and the **Identification key** shown in the **License** dialog.
 
 ## Staging installations
 
@@ -49,7 +49,7 @@ Nothing to do. Local installations are detected from their address and receive u
 
 ## Change the production installation
 
-On [**Account → Licenses**](https://onecrm.example.com/account/licenses), open the installation's menu and click **Set as production**. The installation that held the seat loses it.
+On [**Account → Licenses**](https://onecrm.pages.dev/account/licenses), open the installation's menu and click **Set as production**. The installation that held the seat loses it.
 
 When you remove the installation that holds the seat, the seat moves to your earliest registered production installation that checked in during the last 30 days. If there is none, register your new production installation.
 
@@ -66,7 +66,7 @@ The **License** dialog shows the status of the installation:
 | **This installation must be registered** | [Register it](./license.md#register-your-production-installation). |
 | **This install is registered but is not the production seat** | Use **Set as production** on onecrm.example.com. If it is a staging installation on your production domain, set **Environment** to **Staging** instead. |
 | **This install is not covered by the license** | Run staging on your production domain and register your production installation. Any other live installation needs its own license. |
-| **License valid  -  support window expired** | [Renew](https://onecrm.example.com/account/licenses) to download updates and patches. |
+| **License valid  -  support window expired** | [Renew](https://onecrm.pages.dev/account/licenses) to download updates and patches. |
 
 
 </div>

@@ -5,6 +5,7 @@ source_path: "/terms"
 ---
 
 <div v-pre>
+
 These terms govern your use of onecrm.example.com, your customer account, and software licences supplied by oneCRM through this website. They cover our self-hosted CRM editions and add-on modules, subject to any product-specific licence terms shown before purchase. If you act for an organisation, you must have authority to accept these terms for it.
 
 ## Self-hosted software
@@ -49,7 +50,7 @@ The total charge, currency, and applicable taxes are shown at checkout. Hosting 
 
 ## Digital delivery
 
-Licence keys and downloads are delivered electronically after payment confirmation. Keep your licence key secure and review the product description, demo, and system requirements before purchase. Our [Refund Policy](https://onecrm.example.com/refund-policy) explains refund requests and statutory rights.
+Licence keys and downloads are delivered electronically after payment confirmation. Keep your licence key secure and review the product description, demo, and system requirements before purchase. Our [Refund Policy](https://onecrm.pages.dev/refund-policy) explains refund requests and statutory rights.
 
 ## Licence checks and connected services
 
@@ -59,7 +60,7 @@ You choose and manage third-party integrations. Their availability and terms are
 
 ## Refunds
 
-Refund requests are handled under our [Refund Policy](https://onecrm.example.com/refund-policy). Payment processing and chargebacks for website purchases are managed by Paddle as Merchant of Record.
+Refund requests are handled under our [Refund Policy](https://onecrm.pages.dev/refund-policy). Payment processing and chargebacks for website purchases are managed by Paddle as Merchant of Record.
 
 A bug report does not guarantee a particular fix or delivery date. Share only the information needed to investigate the issue and provide access only when authorised to do so.
 
@@ -67,7 +68,7 @@ The vendor identified on a third-party module listing provides support for that 
 
 ## Support
 
-Support covers the purchased product within its support period, as described in our [Support Policy](https://onecrm.example.com/support-policy). Sign in with an active support licence to open a ticket from our [Contact](https://onecrm.example.com/contact) page. Billing and receipt enquiries should be directed to [Paddle buyer support](https://paddle.net).
+Support covers the purchased product within its support period, as described in our [Support Policy](https://onecrm.pages.dev/support-policy). Sign in with an active support licence to open a ticket from our [Contact](/site/contact) page. Billing and receipt enquiries should be directed to [Paddle buyer support](https://paddle.net).
 
 ## Modifications
 
@@ -87,7 +88,7 @@ These limits do not apply to fraud, fraudulent misrepresentation, or any liabili
 
 ## Privacy
 
-[Read our Privacy Policy for details about accounts, licence checks, support, and diagnostics.](https://onecrm.example.com/privacy)
+[Read our Privacy Policy for details about accounts, licence checks, support, and diagnostics.](https://onecrm.pages.dev/privacy)
 
 ## Changes
 
@@ -95,6 +96,6 @@ We may update these terms for future purchases. An update does not retrospective
 
 ## Contact
 
-Questions about these terms? Visit our [Contact](https://onecrm.example.com/contact) page.
+Questions about these terms? Visit our [Contact](/site/contact) page.
 
 </div>

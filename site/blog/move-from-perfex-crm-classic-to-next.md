@@ -5,6 +5,7 @@ source_path: "/blog/move-from-perfex-crm-classic-to-next"
 ---
 
 <div v-pre>
+
 Moving from oneCRM Classic to Next is not an upgrade. Next is a new installation, and the free [Classic Migrator](/migrate) copies your Classic records into it. Classic keeps running untouched the whole time, so you can try the move, check the result, and switch only when you're happy.
 
 This guide walks through the whole move, from the backup to the day your team signs in to Next.

@@ -5,6 +5,7 @@ source_path: "/for/eu-business"
 ---
 
 <div v-pre>
+
 # Self-hosted CRM for EU businesses
 
 oneCRM brings sales, customer records, and e-invoicing together on a server you choose. Create electronic invoices, connect your Peppol provider, and use VeriFactu tools for Spanish invoicing.

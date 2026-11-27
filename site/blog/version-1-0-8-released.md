@@ -5,12 +5,13 @@ source_path: "/blog/version-1-0-8-released"
 ---
 
 <div v-pre>
-Check[ upgrading from 1.0.7 to 1.0.8](https://onecrm.example.com/docs/classic/3.x/update/manually-update)
+
+Check[ upgrading from 1.0.7 to 1.0.8](/docs/classic/3.x/update/manually-update)
 
 - Changes made in the main onecrm theme
-- Added ability to [create your own view files](https://onecrm.example.com/docs/classic/3.x/customization/edit-view-files-without-messing-the-core-view-files) without changing the core view files. ex. my_home.php.
+- Added ability to [create your own view files](/docs/classic/3.x/customization/edit-view-files-without-messing-the-core-view-files) without changing the core view files. ex. my_home.php.
 - Added option to copy invoice.
-- Added option to convert estimate/invoice [total to words](https://onecrm.example.com/docs/classic/3.x/general/add-currencies-in-total-to-words-feature) (experimental)
+- Added option to convert estimate/invoice [total to words](/docs/classic/3.x/general/add-currencies-in-total-to-words-feature) (experimental)
 - Added option to choose does to show column for item taxes in the table.
 - Added ability to add multiple taxes on invoice/estimate item.
 - Added new report for invoices.

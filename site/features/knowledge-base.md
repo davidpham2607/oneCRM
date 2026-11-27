@@ -5,6 +5,7 @@ source_path: "/features/knowledge-base"
 ---
 
 <div v-pre>
+
 What AI can do here
 
 - Article suggestions
@@ -109,7 +110,7 @@ Accepting a quote online
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 What AI can do here

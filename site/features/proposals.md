@@ -5,6 +5,7 @@ source_path: "/features/proposals"
 ---
 
 <div v-pre>
+
 # Sales proposals your customers accept online
 
 Start from a template for your industry, shape every page, and let customers tick the extras they want and accept online. The PDF matches page for page.
@@ -146,7 +147,7 @@ One-time payment on onecrm.example.com
 - Renews at $39 for 1 year of updates and support
 
 New to oneCRM?
- [Get oneCRM](https://onecrm.example.com/pricing)
+ [Get oneCRM](/site/pricing)
 
 ### Marketing
 

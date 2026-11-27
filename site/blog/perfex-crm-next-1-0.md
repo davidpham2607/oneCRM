@@ -5,6 +5,7 @@ source_path: "/blog/perfex-crm-next-1-0"
 ---
 
 <div v-pre>
+
 Today we're releasing **oneCRM 1.0**, a new edition of oneCRM rebuilt from the ground up.
 
 It is still the oneCRM you know: self-hosted, a one-time license, the full source code, and it runs on ordinary shared hosting. Underneath, everything is new, and that let us build the things you have asked us for over the years and could not have in Classic.

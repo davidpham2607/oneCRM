@@ -5,17 +5,18 @@ source_path: "/blog/version-1-2-0-released"
 ---
 
 <div v-pre>
+
 Version 1.2.0 is released. This version comes with a lot improvements and bug fixes together with some new features.
 
 ### **Choose PDF document format A4 or LETTER.**
 
 oneCRM will auto calculate the document width and align the text elements to the necessary positions.
 
-If you are using your own eq. [my_invoicepdf.php](https://onecrm.example.com/docs/classic/3.x/customization/edit-view-files-without-messing-the-core-view-files) you will need to switch the the core file to see the changes.
+If you are using your own eq. [my_invoicepdf.php](/docs/classic/3.x/customization/edit-view-files-without-messing-the-core-view-files) you will need to switch the the core file to see the changes.
 
 ### **Ability to link invoice to project from the invoice create/edit area.**
 
-In version 1.2.0 you will have ability to link the invoice directly to the project. While before[ linking invoice to project](https://onecrm.example.com/docs/classic/3.x/projects/invoicing-project) was only available from the projects area by clickin on the invoice project button.
+In version 1.2.0 you will have ability to link the invoice directly to the project. While before[ linking invoice to project](/docs/classic/3.x/projects/invoicing-project) was only available from the projects area by clickin on the invoice project button.
 
 Note: The project dropdown will be shown only if there is projects associated with the selected customer.
 

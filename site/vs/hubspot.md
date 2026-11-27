@@ -5,6 +5,7 @@ source_path: "/vs/hubspot"
 ---
 
 <div v-pre>
+
 # oneCRM vs HubSpot
 
 HubSpot is the best-known marketing and sales CRM, with a generous free plan and polished apps. Pick it for inbound marketing and sales at scale. For client work  -  quotes, projects, time, invoices and a ticket desk  -  the HubSpot plans you need are priced per seat every month, while oneCRM includes them for a one-time price.
@@ -29,8 +30,8 @@ HubSpot is the best-known marketing and sales CRM, with a generous free plan and
 | Deal pipelines | Yes | Yes |
 | Web-to-lead forms | Yes | Yes |
 | Quotes | Yes | Revenue Hub Professional |
-| Email inbox in the CRM | [Built in: Gmail, Outlook and IMAP](https://onecrm.example.com/features/email-inbox) | Yes |
-| Marketing email campaigns | [Paid Marketing module](https://onecrm.example.com/features/email-marketing) | Yes |
+| Email inbox in the CRM | [Built in: Gmail, Outlook and IMAP](/site/features/email-inbox) | Yes |
+| Marketing email campaigns | [Paid Marketing module](/site/features/email-marketing) | Yes |
 | **Billing & finance** | | |
 | Invoices | Yes | Yes, free; one currency on free tools |
 | Recurring billing | Recurring invoices | Subscriptions |
@@ -70,7 +71,7 @@ There is no official HubSpot importer. Export contacts, companies and deals from
 Facts about HubSpot were last checked on October 13, 2026. Spotted something out of date?
  [
  Tell us
- ](https://onecrm.example.com/contact)
+ ](/site/contact)
 
 - [
  HubSpot product and services catalog

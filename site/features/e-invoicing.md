@@ -5,6 +5,7 @@ source_path: "/features/e-invoicing"
 ---
 
 <div v-pre>
+
 # Send electronic invoices from the CRM you use every day
 
 Create e-invoices, send them through your Peppol provider, and use VeriFactu tools for Spanish invoicing. Keep the documents with your customer records.
@@ -135,7 +136,7 @@ This document is registered with VeriFactu and cannot be changed. Correct it wit
 Runs on infrastructure you control  - 
  [
  self-hosted CRM
- ](https://onecrm.example.com/self-hosted-crm)
+ ](https://onecrm.pages.dev/self-hosted-crm)
  with a one-time licence.
 
 ### Invoicing & payments

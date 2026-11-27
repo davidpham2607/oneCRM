@@ -5,6 +5,7 @@ source_path: "/blog/crm-workflow-lead-to-paid-invoice"
 ---
 
 <div v-pre>
+
 A CRM workflow is the path a customer takes through your business, and what your team does at each step of it. Most guides explain it with a diagram. This one follows a single customer from the first enquiry to a paid invoice and a support ticket, in oneCRM, and shows what is automated along the way.
 
 The example is a small web agency. The customer is Atlas Coffee Roasters, who want a new website.

@@ -5,6 +5,7 @@ source_path: "/vs/bitrix24"
 ---
 
 <div v-pre>
+
 # oneCRM vs Bitrix24
 
 Bitrix24 is an all-in-one workspace with chat, video, CRM and tasks at a flat price per team. Pick it if internal collaboration matters as much as client work. oneCRM is focused on client work and billing, with a dedicated ticket desk, client portal and e-invoicing, for a one-time price on your own server.
@@ -29,7 +30,7 @@ Bitrix24 is an all-in-one workspace with chat, video, CRM and tasks at a flat pr
 | Deal pipelines | Yes | Yes |
 | Web-to-lead forms | Yes | Yes |
 | Quotes | Yes | Standard plan and up |
-| Email inbox in the CRM | [Built in: Gmail, Outlook and IMAP](https://onecrm.example.com/features/email-inbox) | Yes |
+| Email inbox in the CRM | [Built in: Gmail, Outlook and IMAP](/site/features/email-inbox) | Yes |
 | **Billing & finance** | | |
 | Invoices | Yes | Standard plan and up |
 | Recurring invoices | Yes | Yes |
@@ -69,7 +70,7 @@ There is no official Bitrix24 importer. Export leads, companies and contacts fro
 Facts about Bitrix24 were last checked on October 13, 2026. Spotted something out of date?
  [
  Tell us
- ](https://onecrm.example.com/contact)
+ ](/site/contact)
 
 - [
  Bitrix24 cloud pricing

@@ -6,6 +6,7 @@ source_path: "/self-hosted-crm"
 ---
 
 <div v-pre>
+
 # Your client business, on a server you control
 
 Manage clients, invoices, and projects with a self-hosted CRM. Pay once for your licence and choose where your business records live.
@@ -17,19 +18,19 @@ oneCRM brings client work and billing together with a one-time licence. You mana
 Join more than 40,000+ teams using oneCRM to manage client work. Compare
  [
  editions and pricing
- ](https://onecrm.example.com/compare)
+ ](https://onecrm.pages.dev/compare)
  or read how we support
  [
  agencies
- ](https://onecrm.example.com/for/agencies)
+ ](/site/for/agencies)
 ,
  [
  consultants
- ](https://onecrm.example.com/for/consultants)
+ ](/site/for/consultants)
 , and
  [
  IT service companies
- ](https://onecrm.example.com/for/it-service-companies)
+ ](/site/for/it-service-companies)
 .
 
 What AI can do here
@@ -228,7 +229,7 @@ Valid
 Weighing oneCRM against other self-hosted or cloud CRMs?
  [
  See the honest comparisons
- ](https://onecrm.example.com/alternatives)
+ ](https://onecrm.pages.dev/alternatives)
 
 ## Bring your client work together
 

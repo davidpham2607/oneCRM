@@ -6,6 +6,7 @@ source_path: "/bug-reporting"
 ---
 
 <div v-pre>
+
 # A direct line from your CRM to the people fixing it
 
 Report an issue without leaving your CRM, follow its progress, and know when a small fix is ready to install.

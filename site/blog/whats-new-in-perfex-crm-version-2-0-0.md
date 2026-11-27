@@ -5,7 +5,8 @@ source_path: "/blog/whats-new-in-perfex-crm-version-2-0-0"
 ---
 
 <div v-pre>
-Also, it’s worth mentioning that oneCRM version 2.0.0 comply with the new GDPR law that takes effect on 25th of May 2018, if you are not familiar with this, you should check our dedicated post for[ how oneCRM can help you comply with GDPR](https://onecrm.example.com/blog/how-onecrm-can-help-you-to-comply-with-gdpr-law)
+
+Also, it’s worth mentioning that oneCRM version 2.0.0 comply with the new GDPR law that takes effect on 25th of May 2018, if you are not familiar with this, you should check our dedicated post for[ how oneCRM can help you comply with GDPR](https://onecrm.pages.dev/blog/how-onecrm-can-help-you-to-comply-with-gdpr-law)
 
 To get familiar with all improvements in version 2.0.0, we will try to walk you through them in this article.
 
@@ -13,11 +14,11 @@ To get familiar with all improvements in version 2.0.0, we will try to walk you 
 
 Stripe subscription billing was one of the most requested and useful features over the years, we decided to implement this feature to help you bill your customers in a more faster way without you lifting a finger.
 
-This feature is still in early stages and improvements may be available in future updates, more information about subscription payments can be found [here](https://onecrm.example.com/docs/classic/3.x/general/subscriptions)
+This feature is still in early stages and improvements may be available in future updates, more information about subscription payments can be found [here](/docs/classic/3.x/general/subscriptions)
 
 ### Security Improvements
 
-Security is key to any CRM or web-based application, we added 2 more security features that will help you to fight spam bots and crawlers, you can check our dedicated documentation article for applying [security measures](https://onecrm.example.com/docs/classic/3.x/general-informations/applying-security-measures#spam_bots)
+Security is key to any CRM or web-based application, we added 2 more security features that will help you to fight spam bots and crawlers, you can check our dedicated documentation article for applying [security measures](/docs/classic/3.x/general-informations/applying-security-measures#spam_bots)
 
 If you haven’t read the article for applying security measures in oneCRM, you should.
 
@@ -27,7 +28,7 @@ Starting from version 2.0.0 customers will be able to sign estimates, contracts 
 
 ### Print Lead Information
 
-An option to print lead information is added, this option will help you also to comply with the [GDPR law](https://onecrm.example.com/docs/classic/3.x/general-informations/gdpr-compliance). You can print the lead information directly from the lead modal, on the right side you will be able to see a print button.
+An option to print lead information is added, this option will help you also to comply with the [GDPR law](/docs/classic/3.x/general-informations/gdpr-compliance). You can print the lead information directly from the lead modal, on the right side you will be able to see a print button.
 
 ### Upload files for task comment
 
@@ -49,13 +50,13 @@ Explore more advanced features and robust helpdesk solutions at [Aidlify - Email
 
 This feature will help you to easily determine eq if contact opened the email when you send the invoice to the contact email.
 
-Click [here](https://onecrm.example.com/docs/classic/3.x/general/tracking-sent-emails) to read more about this feature
+Click [here](/docs/classic/3.x/general/tracking-sent-emails) to read more about this feature
 
 ### Change task and lead status directly from the table (list view)
 
 To make easier changing the status of lead and tasks, now you can change the status without even opening the lead or task, from the tables you can locate the status column and click on the arrow next to the status name.
 
-To check the full changelog click [here](https://onecrm.example.com/docs/classic/3.x/changelog/version-2-0)
+To check the full changelog click [here](/docs/classic/3.x/changelog/version-2-0)
 
 ### Want to learn more? [Try now](https://1.envato.market/vqZoL) and see how oneCRM can help you succeed.
 

@@ -5,11 +5,12 @@ source_path: "/complaints"
 ---
 
 <div v-pre>
+
 We aim to resolve issues fairly and promptly. If you are unhappy with our product or support, please follow the steps below.
 
 ## How to complain
 
-1. Submit details through our [Contact](https://onecrm.example.com/contact) page, including your order reference if applicable.
+1. Submit details through our [Contact](/site/contact) page, including your order reference if applicable.
 2. If you have an active support licence, sign in and open a support ticket so we can track your case.
 3. We aim to acknowledge complaints within 14 business days and provide a substantive response as soon as practicable.
 

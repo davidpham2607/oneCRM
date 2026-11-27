@@ -5,6 +5,7 @@ source_path: "/vs/pipedrive"
 ---
 
 <div v-pre>
+
 # oneCRM vs Pipedrive
 
 Pipedrive is a focused, easy sales CRM with a leads inbox, visual pipelines and polished mobile apps. Pick it if selling is all your team does. oneCRM has the same leads-to-deals flow, then keeps going with quotes, invoices, projects, time and a ticket desk, for a one-time price instead of per seat every month.
@@ -31,7 +32,7 @@ Pipedrive is a focused, easy sales CRM with a leads inbox, visual pipelines and 
 | Revenue forecast | Yes | Growth and higher |
 | Web-to-lead forms | Yes | LeadBooster add-on; included from Premium |
 | Quotes and documents | Yes | Smart Docs add-on; included from Premium |
-| Marketing email campaigns | [Paid Marketing module](https://onecrm.example.com/features/email-marketing) | Campaigns add-on |
+| Marketing email campaigns | [Paid Marketing module](/site/features/email-marketing) | Campaigns add-on |
 | **Billing & finance** | | |
 | Invoices and online payments | Yes | Through a Xero or QuickBooks account |
 | Recurring invoices | Yes | In your accounting app |
@@ -69,7 +70,7 @@ There is no official Pipedrive importer. Export leads, deals, organizations and 
 Facts about Pipedrive were last checked on October 16, 2026. Spotted something out of date?
  [
  Tell us
- ](https://onecrm.example.com/contact)
+ ](/site/contact)
 
 - [
  Pipedrive pricing

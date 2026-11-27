@@ -53,7 +53,7 @@ To go back to the original text, use **Use the original text** on a string, **Re
 
 1. Open the Translator and choose the locale.
 2. Click **Download** in the page menu. You get a ZIP of the whole locale, with your translations included.
-3. Send the ZIP to the oneCRM team through [support](https://onecrm.example.com/support).
+3. Send the ZIP to the oneCRM team through [support](https://onecrm.pages.dev/support).
 
 The same download is a handy backup of your translations.
 

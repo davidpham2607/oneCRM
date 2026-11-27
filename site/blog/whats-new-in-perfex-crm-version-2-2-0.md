@@ -5,11 +5,12 @@ source_path: "/blog/whats-new-in-perfex-crm-version-2-2-0"
 ---
 
 <div v-pre>
-Below you will find some of the features added in version 2.2.0, the list above is just part of the improvements and changes, to check the full [changelog](https://onecrm.example.com/docs/classic/3.x/changelog/version-2-2-0) for version 2.2.0.
+
+Below you will find some of the features added in version 2.2.0, the list above is just part of the improvements and changes, to check the full [changelog](/docs/classic/3.x/changelog/version-2-2-0) for version 2.2.0.
 
 ### Email Verification For Registered Customers
 
-Starting from version 2.2.0, the customers that will register manually from the customers area into the portal, they will need to confirm their email address in order to access all the features in customers area, this feature will require properly configured [mail config](https://onecrm.example.com/docs/classic/3.x/email-config-and-templates/smtp-configuration) in Setup->Settings->Email.
+Starting from version 2.2.0, the customers that will register manually from the customers area into the portal, they will need to confirm their email address in order to access all the features in customers area, this feature will require properly configured [mail config](/docs/classic/3.x/email-config-and-templates/smtp-configuration) in Setup->Settings->Email.
 
 ### Custom Task Reminders
 
@@ -17,7 +18,7 @@ Now you can add any custom reminders for a specific task and a specific member a
 
 ### Google Drive Picker
 
-The [Google Drive](https://onecrm.example.com/docs/classic/3.x/setup-and-configuration/google-configuration-features) feature was requested multiple times along with the Dropbox Chooser feature which already exists in oneCRM. We added the Google Drive Picker feature so you can insert Drive links directly to oneCRM and save space in your server.
+The [Google Drive](/docs/classic/3.x/setup-and-configuration/google-configuration-features) feature was requested multiple times along with the Dropbox Chooser feature which already exists in oneCRM. We added the Google Drive Picker feature so you can insert Drive links directly to oneCRM and save space in your server.
 
 ### Import Items Feature
 

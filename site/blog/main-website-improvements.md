@@ -5,9 +5,10 @@ source_path: "/blog/main-website-improvements"
 ---
 
 <div v-pre>
-[Documentation](https://onecrm.example.com/docs/classic/3.x/introduction)
 
-[FAQ](https://onecrm.example.com/docs/classic/3.x/faq)
+[Documentation](/docs/classic/3.x/introduction)
+
+[FAQ](/docs/classic/3.x/faq)
 
 ## myDATA AADE connector module
 
