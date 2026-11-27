@@ -4,9 +4,10 @@ description: "Invoicing built into oneCRM: customers pay online with Stripe, Pay
 source_path: "/features/invoicing"
 ---
 
+# Get paid without chasing every invoice
+
 <div v-pre>
 
-# Get paid without chasing every invoice
 
 oneCRM is a CRM with invoicing built in. Send an invoice your customer can pay online, set up recurring invoices and payment reminders, then see what has been paid and what still needs attention.
 

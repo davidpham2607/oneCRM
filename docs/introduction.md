@@ -1,6 +1,7 @@
+# Introduction
+
 <div v-pre>
 
-# Introduction
 
 This documentation explains how to install, configure, and use oneCRM on your own server or hosting account.
 

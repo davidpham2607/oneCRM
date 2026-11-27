@@ -4,9 +4,10 @@ description: "A CRM for Outlook, Gmail, and any IMAP mailbox. Read and reply ins
 source_path: "/features/email-inbox"
 ---
 
+# Your email inbox, next to every deal
+
 <div v-pre>
 
-# Your email inbox, next to every deal
 
 Connect Gmail, Outlook, or any IMAP mailbox. Every conversation shows its contact, company, and open deals, and follow-up views tell you who is waiting on you.
 

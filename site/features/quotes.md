@@ -4,9 +4,10 @@ description: "Send quotes and estimates customers can accept online. Let them ch
 source_path: "/features/quotes"
 ---
 
+# Let customers accept a quote in one click
+
 <div v-pre>
 
-# Let customers accept a quote in one click
 
 Send a clear quote your customer can review and accept online. Offer optional items on estimates, then turn the agreed work into an invoice.
 

@@ -1,6 +1,7 @@
+# Expenses
+
 <div v-pre>
 
-# Expenses
 
 This page explains expenses in oneCRM: recording them, approval, categories, receipts, invoicing them to a customer, and recurring expenses.
 An expense is a cost your company had, such as travel or a software subscription. It can be linked to a contact or company and billed to them.

@@ -1,6 +1,7 @@
+# Extending other modules
+
 <div v-pre>
 
-# Extending other modules
 
 Your module can add fields, relations, table columns, page actions, UI slots and hooks to another module without editing that module.
 Declare these extensions in your [module definition](./module-definition.md).

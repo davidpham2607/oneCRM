@@ -1,6 +1,7 @@
+# Upgrading your module
+
 <div v-pre>
 
-# Upgrading your module
 
 This page lists the changes to the module API that need a change in your module, release by release.
 Read the section of every release between the version your module supports and the one you are updating to.

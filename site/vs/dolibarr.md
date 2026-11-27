@@ -4,9 +4,10 @@ description: "oneCRM and Dolibarr compared for self-hosting: licence, hosting, C
 source_path: "/vs/dolibarr"
 ---
 
+# oneCRM vs Dolibarr
+
 <div v-pre>
 
-# oneCRM vs Dolibarr
 
 Dolibarr is a free, modular ERP: pick it if you need accounting, stock, manufacturing or HR in one open-source app. oneCRM is built for service businesses  -  leads, quotes, projects, billing, tickets and a client portal in one modern interface, with e-invoicing, AI and automations included for a one-time price.
 

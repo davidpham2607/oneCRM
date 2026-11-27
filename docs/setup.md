@@ -1,6 +1,7 @@
+# Initial setup
+
 <div v-pre>
 
-# Initial setup
 
 This guide covers the settings to configure after installing oneCRM, before you add real customers or send invoices.
 Work through the sections in order. Settings are open to **super admins** only.

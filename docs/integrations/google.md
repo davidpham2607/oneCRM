@@ -1,6 +1,7 @@
+# Google
+
 <div v-pre>
 
-# Google
 
 The Google integration lets staff connect their Gmail or Google Workspace accounts to oneCRM as email channels.
 You create OAuth credentials once in Google Cloud; each staff member then connects their own account.

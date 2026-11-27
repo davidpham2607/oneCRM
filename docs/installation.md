@@ -1,6 +1,7 @@
+# Installation
+
 <div v-pre>
 
-# Installation
 
 This guide shows how to install oneCRM on your server using the guided web installer.
 Check the [requirements](./requirements.md) first. On a server with Docker, follow the [Docker installation](./docker.md) guide instead.

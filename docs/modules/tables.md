@@ -1,6 +1,7 @@
+# Tables, boards and lists
+
 <div v-pre>
 
-# Tables, boards and lists
 
 Tables, boards and lists are Livewire components that show records, each described in one `configure()` method.
 A table lists rows with sorting, filters and actions, a board shows cards in columns, and a list shows rows in groups. None of them needs a resource.

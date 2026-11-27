@@ -5,9 +5,10 @@ description: "Manage sales leads, deals, projects, invoices, and customer suppor
 source_path: "/"
 ---
 
+# Self-hosted CRM for sales, projects, and customer support
+
 <div v-pre>
 
-# Self-hosted CRM for sales, projects, and customer support
 
 oneCRM helps service businesses capture leads, manage sales pipelines, deliver projects, and send invoices in one place. Give clients a portal to pay, accept quotes, and request support.
 

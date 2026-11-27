@@ -5,9 +5,10 @@ description: "oneCRM is a self-hosted CRM for agencies, consultants, and service
 source_path: "/about"
 ---
 
+# We build self-hosted CRM software for client businesses
+
 <div v-pre>
 
-# We build self-hosted CRM software for client businesses
 
 We help agencies, consultants, and service teams manage client work in one place, on a server they choose.
 

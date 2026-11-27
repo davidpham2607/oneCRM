@@ -4,9 +4,10 @@ description: "oneCRM and EspoCRM compared for self-hosting: licence, paid extens
 source_path: "/vs/espocrm"
 ---
 
+# oneCRM vs EspoCRM
+
 <div v-pre>
 
-# oneCRM vs EspoCRM
 
 EspoCRM is a flexible, open-source sales CRM: pick it if you want to model your own entities and fields. Its quotes, invoices, projects, workflows and reports are paid extensions on a time-limited licence. oneCRM includes billing, projects, time tracking, expenses and e-invoicing in one one-time price.
 

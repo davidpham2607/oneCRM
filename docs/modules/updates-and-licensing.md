@@ -1,6 +1,7 @@
+# Module updates and licensing
+
 <div v-pre>
 
-# Module updates and licensing
 
 This page explains how separately sold modules declare `updates` in `module.json` so customers can update them from inside oneCRM.
 Customers install module updates from **Settings → System → Modules**.

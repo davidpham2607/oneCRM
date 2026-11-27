@@ -1,6 +1,7 @@
+# Claude & ChatGPT
+
 <div v-pre>
 
-# Claude & ChatGPT
 
 Connect Claude or ChatGPT to oneCRM so you can ask about, create, and update your CRM records in a chat.
 The connection uses the Model Context Protocol (MCP), and the AI client works with the permissions of the user who connects it.

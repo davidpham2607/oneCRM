@@ -1,6 +1,7 @@
+# Payment gateway drivers
+
 <div v-pre>
 
-# Payment gateway drivers
 
 A payment gateway module adds an online payment provider by registering a driver with the Billing module.
 Your driver is a thin adapter to the provider API.

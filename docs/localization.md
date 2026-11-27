@@ -1,6 +1,7 @@
+# Localization
+
 <div v-pre>
 
-# Localization
 
 oneCRM comes in several languages, and each user chooses their own.
 System emails are translated separately through [mail templates](./mail-templates.md#locale-matching).

@@ -1,6 +1,7 @@
+# Knowledge base
+
 <div v-pre>
 
-# Knowledge base
 
 This page explains the oneCRM knowledge base: writing help articles, choosing who can read them, and how they reach customers and tickets.
 Articles are grouped into categories. Customers read them in the customer portal, and staff read them under **Knowledge base** in the sidebar.

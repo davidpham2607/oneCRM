@@ -4,9 +4,10 @@ description: "Free oneCRM module that moves staff, customers, leads, billing, pr
 source_path: "/modules/classic-migrator"
 ---
 
+# Classic Migrator
+
 <div v-pre>
 
-# Classic Migrator
 
 License price:
 

@@ -1,6 +1,7 @@
+# VeriFactu (Spain)
+
 <div v-pre>
 
-# VeriFactu (Spain)
 
 VeriFactu registers Spanish invoices and credit notes with the Spanish Tax Agency (AEAT) and adds a verification QR code.
 It uses the company details, tax categories and certificates of the [e-invoicing setup](./e-invoicing.md).

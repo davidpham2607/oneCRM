@@ -1,6 +1,7 @@
+# Updates & patches
+
 <div v-pre>
 
-# Updates & patches
 
 This page explains how to update oneCRM and apply patches, either from the admin area or by uploading files manually.
 

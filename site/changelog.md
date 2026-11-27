@@ -4,9 +4,10 @@ description: "The oneCRM changelog: what was added, changed, and fixed in every 
 source_path: "/changelog"
 ---
 
+## Version 1.1.0
+
 <div v-pre>
 
-## Version 1.1.0
 
 November 25, 2026
 

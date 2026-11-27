@@ -1,6 +1,7 @@
+# Inbox
+
 <div v-pre>
 
-# Inbox
 
 This page explains the Inbox in oneCRM: connecting email channels, working conversations, linking them to records, saved replies, and permissions.
 The Inbox syncs your mailboxes every few minutes, and replies you write in the CRM go out from the same mailbox.

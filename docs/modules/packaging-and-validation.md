@@ -1,6 +1,7 @@
+# Packaging and release
+
 <div v-pre>
 
-# Packaging and release
 
 This page explains how to build a module's release ZIP and the checks oneCRM runs when a module is uploaded, enabled, or updated.
 

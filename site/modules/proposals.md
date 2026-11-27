@@ -4,9 +4,10 @@ description: "Proposals for oneCRM: write designed sales proposals in a full-pag
 source_path: "/modules/proposals"
 ---
 
+# Proposals
+
 <div v-pre>
 
-# Proposals
 
 License price:
 

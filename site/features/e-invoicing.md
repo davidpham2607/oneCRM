@@ -4,9 +4,10 @@ description: "Create electronic invoices in oneCRM with UBL, Factur-X, and ZUGFe
 source_path: "/features/e-invoicing"
 ---
 
+# Send electronic invoices from the CRM you use every day
+
 <div v-pre>
 
-# Send electronic invoices from the CRM you use every day
 
 Create e-invoices, send them through your Peppol provider, and use VeriFactu tools for Spanish invoicing. Keep the documents with your customer records.
 

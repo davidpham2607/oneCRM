@@ -1,6 +1,7 @@
+# Tickets
+
 <div v-pre>
 
-# Tickets
 
 This page explains how support tickets work in oneCRM: where they come from, ticket settings, tickets from email, and spam filtering.
 Customers open tickets from the customer portal, by email, or through a contact form, and your team replies, assigns, and closes them from the admin area.

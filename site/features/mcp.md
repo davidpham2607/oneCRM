@@ -4,9 +4,10 @@ description: "Connect Claude, ChatGPT, Cursor, or VS Code to oneCRM through the 
 source_path: "/features/mcp"
 ---
 
+# Run your CRM from the AI you already use
+
 <div v-pre>
 
-# Run your CRM from the AI you already use
 
 Connect Claude, ChatGPT, Cursor, or VS Code to oneCRM. Ask about leads, deals, tickets, and invoices in plain language, then let the assistant update records with your permissions.
 

@@ -1,6 +1,7 @@
+# Documents
+
 <div v-pre>
 
-# Documents
 
 Documents are the quotes and estimates you send to customers in oneCRM to review, sign or decline online, and convert into invoices.
 Customers answer on the document's public page, without signing in.

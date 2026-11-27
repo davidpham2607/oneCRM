@@ -1,6 +1,7 @@
+# Automations
+
 <div v-pre>
 
-# Automations
 
 Automations let oneCRM do routine work for you: when something happens to a record, it checks your rules and runs actions such as sending an email.
 For example, assign every new lead to the next sales rep in turn, or email a customer three days before a quote expires.

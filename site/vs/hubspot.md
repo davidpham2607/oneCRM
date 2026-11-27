@@ -4,9 +4,10 @@ description: "Looking for a HubSpot alternative? oneCRM and HubSpot compared: th
 source_path: "/vs/hubspot"
 ---
 
+# oneCRM vs HubSpot
+
 <div v-pre>
 
-# oneCRM vs HubSpot
 
 HubSpot is the best-known marketing and sales CRM, with a generous free plan and polished apps. Pick it for inbound marketing and sales at scale. For client work  -  quotes, projects, time, invoices and a ticket desk  -  the HubSpot plans you need are priced per seat every month, while oneCRM includes them for a one-time price.
 

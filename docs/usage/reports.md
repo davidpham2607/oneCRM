@@ -1,6 +1,7 @@
+# Reports and dashboards
+
 <div v-pre>
 
-# Reports and dashboards
 
 This page explains how to use reports in oneCRM: the built-in reports, building your own, and arranging dashboards.
 Every report counts only the records the viewer may see, so the same report shows a sales rep their own deals and a manager their team's.

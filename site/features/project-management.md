@@ -4,9 +4,10 @@ description: "oneCRM includes project management: plan client projects from temp
 source_path: "/features/project-management"
 ---
 
+# Start the next project from a template, not from scratch
+
 <div v-pre>
 
-# Start the next project from a template, not from scratch
 
 Start with a project template, give everyone a clear task, and track the time you spend. Turn finished work into an invoice while the details are still at hand.
 

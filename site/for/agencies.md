@@ -4,9 +4,10 @@ description: "A self-hosted CRM for marketing, web design, and digital agencies:
 source_path: "/for/agencies"
 ---
 
+# Self-hosted CRM for agencies
+
 <div v-pre>
 
-# Self-hosted CRM for agencies
 
 oneCRM brings agency sales, client projects, and billing together for marketing, web design, and digital agencies. Track leads and deals, plan website launches and campaigns, and bill retainers from the same CRM, with no per-seat fees.
 

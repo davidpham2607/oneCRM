@@ -1,6 +1,7 @@
+# Deleting a module
+
 <div v-pre>
 
-# Deleting a module
 
 This page explains what oneCRM cleans up when a module is deleted and what your module must clean up itself.
 It applies to deletes from **Settings → System → Modules** and `php artisan module:delete`.

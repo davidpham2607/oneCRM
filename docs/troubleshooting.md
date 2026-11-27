@@ -1,6 +1,7 @@
+# Troubleshooting
+
 <div v-pre>
 
-# Troubleshooting
 
 This page lists common oneCRM problems and how to fix them.
 When something goes wrong, start with the logs and **Platform health** (sidebar logo menu → **Debug** → **Platform health**).

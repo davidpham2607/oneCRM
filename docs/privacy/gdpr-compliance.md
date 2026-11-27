@@ -1,6 +1,7 @@
+# GDPR compliance
+
 <div v-pre>
 
-# GDPR compliance
 
 The Privacy module helps you honour GDPR rights in oneCRM with consent logging, data export, and erasure, while you remain the data controller.
 It adds a consent registry, a request queue for staff, a public request form, and a **Privacy & data** page in the customer portal.

@@ -4,9 +4,10 @@ description: "Create sales proposals customers accept online in oneCRM: industry
 source_path: "/features/proposals"
 ---
 
+# Sales proposals your customers accept online
+
 <div v-pre>
 
-# Sales proposals your customers accept online
 
 Start from a template for your industry, shape every page, and let customers tick the extras they want and accept online. The PDF matches page for page.
 

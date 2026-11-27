@@ -4,9 +4,10 @@ description: "oneCRM and SuiteCRM 8 compared for self-hosting: licence, hosting,
 source_path: "/vs/suitecrm"
 ---
 
+# oneCRM vs SuiteCRM
+
 <div v-pre>
 
-# oneCRM vs SuiteCRM
 
 SuiteCRM is a deep, free enterprise sales CRM: pick it for campaigns, complex workflows and Salesforce-style breadth, with a VPS to run it. oneCRM is lighter to host and built around client work  -  projects, time, recurring invoices, expenses, tickets and a client portal  -  with e-invoicing included.
 

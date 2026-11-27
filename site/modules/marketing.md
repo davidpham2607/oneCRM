@@ -4,9 +4,10 @@ description: "Email marketing for oneCRM: campaigns, automated sequences, consen
 source_path: "/modules/marketing"
 ---
 
+# Marketing
+
 <div v-pre>
 
-# Marketing
 
 License price:
 

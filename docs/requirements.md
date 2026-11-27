@@ -1,6 +1,7 @@
+# Requirements
+
 <div v-pre>
 
-# Requirements
 
 This page lists the server requirements for oneCRM: PHP, database, web server, extensions, and cron.
 The web installer checks most of them on its first step.

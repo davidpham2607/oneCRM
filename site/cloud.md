@@ -4,9 +4,10 @@ description: "oneCRM hosted for you: every feature, updates and daily backups ta
 source_path: "/cloud"
 ---
 
+# Your CRM, hosted and looked after for you
+
 <div v-pre>
 
-# Your CRM, hosted and looked after for you
 
 Every oneCRM feature, ready in a minute or two. You pay by the number of users.
 

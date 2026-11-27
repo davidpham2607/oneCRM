@@ -4,9 +4,10 @@ description: "oneCRM and Bitrix24 compared: cost over three years, hosting, CRM,
 source_path: "/vs/bitrix24"
 ---
 
+# oneCRM vs Bitrix24
+
 <div v-pre>
 
-# oneCRM vs Bitrix24
 
 Bitrix24 is an all-in-one workspace with chat, video, CRM and tasks at a flat price per team. Pick it if internal collaboration matters as much as client work. oneCRM is focused on client work and billing, with a dedicated ticket desk, client portal and e-invoicing, for a one-time price on your own server.
 

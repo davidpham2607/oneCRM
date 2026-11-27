@@ -1,6 +1,7 @@
+# Tasks
+
 <div v-pre>
 
-# Tasks
 
 This page explains how tasks work in oneCRM: assigning them, statuses, reminders, checklists, recurring tasks, and the list, board, and calendar views.
 A task is one piece of work with a due date and the people who do it. It can stand alone or be linked to a record, such as a lead, a deal, or a [project](./projects.md).

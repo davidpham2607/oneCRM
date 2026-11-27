@@ -5,9 +5,10 @@ description: "Download the free Classic Migrator and move staff, customers, bill
 source_path: "/migrate"
 ---
 
+# Bring your oneCRM Classic records into oneCRM
+
 <div v-pre>
 
-# Bring your oneCRM Classic records into oneCRM
 
 Classic Migrator is a free oneCRM module. Install it, point it at your oneCRM Classic folder or a SQL dump, and move the records your team works in every day.
 

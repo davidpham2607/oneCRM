@@ -1,6 +1,7 @@
+# License & installations
+
 <div v-pre>
 
-# License & installations
 
 This page explains which installations your oneCRM license covers and how to register them so they receive updates.
 

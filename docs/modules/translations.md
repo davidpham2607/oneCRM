@@ -1,6 +1,7 @@
+# Translations
+
 <div v-pre>
 
-# Translations
 
 This page explains where a module's language files live and how to reference translation keys from PHP and Blade.
 Keep every user-visible string in them, so it can be translated under **Settings → Company → Translator**.

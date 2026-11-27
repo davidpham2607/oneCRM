@@ -1,6 +1,7 @@
+# Resources
+
 <div v-pre>
 
-# Resources
 
 A Resource describes a module's primary model in one class  -  fields, validation, forms, the index table, and the REST API.
 Define a field once and it drives validation, forms, index columns, filters, export, import, and API output. Standard CRUD needs no API controller or route file.

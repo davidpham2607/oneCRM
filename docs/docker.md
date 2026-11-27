@@ -1,6 +1,7 @@
+# Docker installation
+
 <div v-pre>
 
-# Docker installation
 
 This guide shows how to run oneCRM on your own server with Docker Compose.
 You don't need to install PHP or set up a cron job: Docker runs everything oneCRM needs, including its MySQL database.

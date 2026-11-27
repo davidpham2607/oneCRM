@@ -1,6 +1,7 @@
+# Microsoft
+
 <div v-pre>
 
-# Microsoft
 
 The Microsoft integration lets staff connect their Outlook or Microsoft 365 accounts to oneCRM as email channels.
 You register an app once in Azure; each staff member then connects their own account.

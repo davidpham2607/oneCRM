@@ -5,9 +5,10 @@ description: "Product news, release
 source_path: "/blog"
 ---
 
+# Blog
+
 <div v-pre>
 
-# Blog
 
 Product news, releases, and guides.
 

@@ -1,6 +1,7 @@
+# Payment gateways
+
 <div v-pre>
 
-# Payment gateways
 
 Payment gateways let your customers pay [invoices](./usage/invoices.md#online-payments) online with Stripe, PayPal, Mollie, or a gateway added by a module.
 After the provider confirms a payment, oneCRM records it on the invoice automatically.

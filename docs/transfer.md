@@ -1,6 +1,7 @@
+# Move to a new server or domain
+
 <div v-pre>
 
-# Move to a new server or domain
 
 This guide explains how to move an existing oneCRM installation to a new domain or server.
 

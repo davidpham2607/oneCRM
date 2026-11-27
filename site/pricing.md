@@ -5,9 +5,10 @@ description: "Buy oneCRM for $99 (launch price) with a one-time payment.
 source_path: "/pricing"
 ---
 
+# Simple, one-time pricing
+
 <div v-pre>
 
-# Simple, one-time pricing
 
 Pay once for your oneCRM licence, with 1 year of updates and support included. Host it on your own server.
 

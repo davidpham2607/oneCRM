@@ -1,6 +1,7 @@
+# AI
+
 <div v-pre>
 
-# AI
 
 oneCRM can use AI to draft replies, summarize conversations, score leads, and classify inbound mail.
 You connect your own AI provider and choose which capabilities are on.

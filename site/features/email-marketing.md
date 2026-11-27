@@ -4,9 +4,10 @@ description: "Send campaigns and automated sequences from oneCRM and see which e
 source_path: "/features/email-marketing"
 ---
 
+# Email marketing that knows who paid
+
 <div v-pre>
 
-# Email marketing that knows who paid
 
 Campaigns and automated sequences that live next to your leads, deals, and invoices, so every won deal and paid invoice is credited to the email that earned it.
 

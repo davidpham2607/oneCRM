@@ -1,6 +1,7 @@
+# Mail templates
+
 <div v-pre>
 
-# Mail templates
 
 Mail templates control the subject and content of system emails, such as password resets, invoice reminders, and ticket notifications.
 oneCRM ships with default templates that you can customize for each locale.

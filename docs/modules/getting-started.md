@@ -1,6 +1,7 @@
+# Getting started with modules
+
 <div v-pre>
 
-# Getting started with modules
 
 This guide sets up a local development environment, scaffolds a module with `module:make`, and shows how to enable and migrate it.
 It also covers the module layout, `module.json`, Composer autoloading, and the enable, disable and delete callbacks in `bootstrap/module.php`.

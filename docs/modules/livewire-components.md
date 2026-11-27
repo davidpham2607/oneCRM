@@ -1,6 +1,7 @@
+# Livewire components
+
 <div v-pre>
 
-# Livewire components
 
 Pages, forms and interactive parts of a module are Livewire components, discovered automatically and tagged with the module's lowercase name.
 

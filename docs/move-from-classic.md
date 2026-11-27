@@ -1,6 +1,7 @@
+# Move from Classic
+
 <div v-pre>
 
-# Move from Classic
 
 This guide explains how to move your data from oneCRM Classic into a new oneCRM installation.
 Next is a separate product, so you install it fresh and import your Classic records with the free Classic Migrator module. Classic is not upgraded in place.

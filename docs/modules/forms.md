@@ -1,6 +1,7 @@
+# Forms
+
 <div v-pre>
 
-# Forms
 
 Forms edit a record or a group of settings with the same fields, validation and layout used across oneCRM.
 Use a `RecordForm` to create and edit records, and a `SettingsForm` for settings.

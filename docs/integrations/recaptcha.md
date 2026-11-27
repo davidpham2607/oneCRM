@@ -1,6 +1,7 @@
+# reCaptcha
+
 <div v-pre>
 
-# reCaptcha
 
 Google reCaptcha protects oneCRM login and public forms from bots and spam.
 Once your keys are saved, reCaptcha checks visitors in the background on:

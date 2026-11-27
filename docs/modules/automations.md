@@ -1,6 +1,7 @@
+# Automation triggers and actions
+
 <div v-pre>
 
-# Automation triggers and actions
 
 A module can add its own triggers, conditions and actions to automations, and let users automate its records.
 Users combine them into [automations](../usage/automations.md)  -  "when X happens, do Y" rules.

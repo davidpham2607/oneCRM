@@ -1,6 +1,7 @@
+# Pusher
+
 <div v-pre>
 
-# Pusher
 
 Pusher delivers real-time updates in oneCRM, so notifications and new [inbox](../usage/inbox.md) messages appear without a page refresh.
 

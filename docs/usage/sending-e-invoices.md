@@ -1,6 +1,7 @@
+# Sending e-invoices
+
 <div v-pre>
 
-# Sending e-invoices
 
 This guide shows how to send invoices and credit notes over Peppol, or to Spanish public administrations through FACe, and track their delivery.
 Complete the [e-invoicing setup](./e-invoicing.md) first, including seller and customer profiles.

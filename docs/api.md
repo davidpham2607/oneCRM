@@ -1,6 +1,7 @@
+# API
+
 <div v-pre>
 
-# API
 
 The API lets external tools list, search, create, update, and delete oneCRM records over HTTPS, using the same permissions as the staff area.
 Use it from Make, n8n, or your own script.

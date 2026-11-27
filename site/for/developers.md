@@ -4,9 +4,10 @@ description: "Build custom oneCRM modules with Laravel, Livewire, and hooks. Add
 source_path: "/for/developers"
 ---
 
+# Build oneCRM modules with Laravel and Livewire
+
 <div v-pre>
 
-# Build oneCRM modules with Laravel and Livewire
 
 Extend oneCRM with custom Laravel and Livewire modules. Add screens and connect to existing CRM features without changing core files.
 

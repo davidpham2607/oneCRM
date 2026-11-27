@@ -4,9 +4,10 @@ description: "We’re thrilled to announce that oneCRM is now natively supported
 source_path: "/blog/perfex-crm-is-now-officially-integrated-with-bit-integrations-for-effortless-wordpress-automation"
 ---
 
+### What is Bit Integrations?
+
 <div v-pre>
 
-### What is Bit Integrations?
 
 [Bit Integrations](https://bit-integrations.com/) lets you seamlessly automate workflows between your WordPress site and 291+ platforms - no coding required. oneCRM has quickly become one of the most-requested integrations, and now it’s finally here.
 

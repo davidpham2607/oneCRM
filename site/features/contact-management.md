@@ -4,9 +4,10 @@ description: "Manage contacts, companies, and customer history in oneCRM. Keep b
 source_path: "/features/contact-management"
 ---
 
+# See every customer in one place
+
 <div v-pre>
 
-# See every customer in one place
 
 Keep contacts, company details, and customer history together. Your team can see who they are helping, what happened last, and how to bill them.
 

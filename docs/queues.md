@@ -1,6 +1,7 @@
+# Queues
+
 <div v-pre>
 
-# Queues
 
 oneCRM uses a queue to send emails, run automations, deliver webhooks, and generate exports in the background.
 New installations use the **`cron`** queue, which needs nothing more than the [cron job](./cron.md).

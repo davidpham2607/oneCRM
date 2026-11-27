@@ -4,9 +4,10 @@ description: "Track leads and deals, send quotes, manage deadlines, and invoice 
 source_path: "/for/freelancers"
 ---
 
+# Self-hosted CRM for freelancers
+
 <div v-pre>
 
-# Self-hosted CRM for freelancers
 
 oneCRM helps you manage new enquiries, sales opportunities, and ongoing client work in one place. Send quotes, track deadlines and billable hours, and invoice the work you deliver.
 

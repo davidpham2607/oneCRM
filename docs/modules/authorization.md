@@ -1,6 +1,7 @@
+# Authorization
+
 <div v-pre>
 
-# Authorization
 
 Authorization decides which admin users can see and change your module's records, through permissions, policies and access rules.
 Permissions are declared in your [module definition](./module-definition.md); policies enforce them on single records and visibility on lists.

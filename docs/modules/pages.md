@@ -1,6 +1,7 @@
+# Pages
+
 <div v-pre>
 
-# Pages
 
 A page is a Livewire component that describes a full admin or customer portal page in one `configure()` method: title, actions, tabs and sections.
 Other modules can add their own actions, tabs and sections to it without editing it.

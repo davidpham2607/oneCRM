@@ -1,6 +1,7 @@
+# Notifications and mail
+
 <div v-pre>
 
-# Notifications and mail
 
 This page shows how a module sends Core notifications and template mailables, the emails admins can edit.
 Notifications in `app/Notifications/` and mailables in `app/Mail/` are discovered automatically.

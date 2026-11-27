@@ -1,6 +1,7 @@
+# Contacts and companies
+
 <div v-pre>
 
-# Contacts and companies
 
 This page explains how oneCRM keeps your customers as contacts and companies, how to bill them, and how to give them portal access.
 A contact is a person and a company is an organisation. Deals, documents, invoices, and tickets are linked to one or the other.

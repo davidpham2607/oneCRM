@@ -1,6 +1,7 @@
+# Customer portal
+
 <div v-pre>
 
-# Customer portal
 
 A module adds pages, menu links, dashboard widgets and contact permissions to the customer portal.
 The **Frontend** module provides the portal layout, navbar and auth pages; your module declares its part with `$module->portal()` in the [module definition](./module-definition.md).

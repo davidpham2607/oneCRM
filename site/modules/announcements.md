@@ -4,9 +4,10 @@ description: "Announcements for oneCRM: post scheduled notices to all staff, sel
 source_path: "/modules/announcements"
 ---
 
+# Announcements
+
 <div v-pre>
 
-# Announcements
 
 License price:
 

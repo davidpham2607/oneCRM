@@ -5,9 +5,10 @@ description: "Licensed oneCRM customers can report issues from inside the CRM, s
 source_path: "/bug-reporting"
 ---
 
+# A direct line from your CRM to the people fixing it
+
 <div v-pre>
 
-# A direct line from your CRM to the people fixing it
 
 Report an issue without leaving your CRM, follow its progress, and know when a small fix is ready to install.
 

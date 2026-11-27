@@ -4,9 +4,10 @@ description: "A self-hosted CRM for solopreneurs: capture leads, send quotes, in
 source_path: "/for/solopreneurs"
 ---
 
+# Self-hosted CRM for solopreneurs
+
 <div v-pre>
 
-# Self-hosted CRM for solopreneurs
 
 oneCRM gives solopreneurs a single place for leads, deals, quotes, and invoices. Website enquiries arrive as leads, reminders chase unpaid invoices, and you buy it once and run it on your own hosting.
 

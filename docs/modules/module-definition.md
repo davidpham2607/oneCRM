@@ -1,6 +1,7 @@
+# Module definition
+
 <div v-pre>
 
-# Module definition
 
 The module definition is the one class where your module declares everything it adds to oneCRM.
 It lives in `app/{Module}Module.php` and runs only while the module is enabled, so everything it declares disappears with the module, without cleanup code.

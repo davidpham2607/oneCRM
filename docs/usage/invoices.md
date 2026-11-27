@@ -1,6 +1,7 @@
+# Invoices
+
 <div v-pre>
 
-# Invoices
 
 This page explains invoices in oneCRM: creating and sending them, recording payments, recurring invoices, credit notes, and customer statements.
 An invoice is billed to a contact or a company. Taxes, payment methods, billing items, payment terms, and exchange rates are set up in [Billing settings](../setup.md#billing).

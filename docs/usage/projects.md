@@ -1,6 +1,7 @@
+# Projects
+
 <div v-pre>
 
-# Projects
 
 This page explains how projects work in oneCRM: phases, members, tasks, time tracking, invoicing the work, and what customers see in the portal.
 A project groups the [tasks](./tasks.md) of one job, usually for a company or contact, with a team, a start date, and a due date.

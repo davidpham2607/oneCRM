@@ -1,6 +1,7 @@
+# Leads
+
 <div v-pre>
 
-# Leads
 
 This page explains how leads work in oneCRM: capturing them, qualifying them, and converting the good ones into customers and deals.
 A lead is someone who may want to buy but has not been qualified yet, such as a web form enquiry or a name from an event. The sale itself is tracked as a [deal](./deals.md).

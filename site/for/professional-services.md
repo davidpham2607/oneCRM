@@ -4,9 +4,10 @@ description: "Connect sales, project delivery, and billing with oneCRM, a self-h
 source_path: "/for/professional-services"
 ---
 
+# Self-hosted CRM for professional services firms
+
 <div v-pre>
 
-# Self-hosted CRM for professional services firms
 
 oneCRM connects sales pipelines, client relationships, project delivery, and billing. Give the people winning the work and delivering it one place to track deals, responsibilities, and billable time.
 

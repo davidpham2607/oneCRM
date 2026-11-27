@@ -1,6 +1,7 @@
+# Routes
+
 <div v-pre>
 
-# Routes
 
 Modules declare their admin, customer portal, public, and API routes in files under `routes/`.
 oneCRM loads those files and applies the prefix and middleware below  -  do not add them yourself.

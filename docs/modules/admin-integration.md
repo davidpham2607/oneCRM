@@ -1,6 +1,7 @@
+# Admin integration
+
 <div v-pre>
 
-# Admin integration
 
 Admin integration puts your module into the admin area with menus, settings pages, reports, global search, dashboard widgets and calendar events.
 All of it is declared in your [module definition](./module-definition.md). The pages themselves are [page components](./pages.md), and permissions and policies are covered in [Authorization](./authorization.md).

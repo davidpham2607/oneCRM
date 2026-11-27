@@ -1,6 +1,7 @@
+# Public assets (JS & CSS)
+
 <div v-pre>
 
-# Public assets (JS & CSS)
 
 A module ships its own JavaScript, CSS, and other static files from its `public/` folder, outside the main Vite bundle.
 oneCRM copies that folder into the web root when the module is enabled.

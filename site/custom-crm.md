@@ -5,9 +5,10 @@ description: "Planning to build your own CRM, with AI or by hand? Start from one
 source_path: "/custom-crm"
 ---
 
+# Build a custom CRM without starting from zero
+
 <div v-pre>
 
-# Build a custom CRM without starting from zero
 
 Whether you code it yourself or with AI, start from a complete self-hosted CRM and spend your time on the features only your business needs.
 

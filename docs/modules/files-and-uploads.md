@@ -1,6 +1,7 @@
+# Files and uploads
+
 <div v-pre>
 
-# Files and uploads
 
 Every file your module keeps is stored as media on the record that owns it, so it follows the storage the administrator chose.
 That is the server's disk or the bucket connected in [Settings → System → File storage](../file-storage.md). Your module never names a disk, keeps a file path in a column, or adds a route to serve a file.

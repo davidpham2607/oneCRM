@@ -1,6 +1,7 @@
+# Deals
+
 <div v-pre>
 
-# Deals
 
 This page explains how to track sales as deals in oneCRM: pipelines and stages, winning and losing deals, products, documents, the forecast, and reports.
 A deal is one sale you are working on, with a company or contact, a value, and an expected close date. It moves through the stages of a pipeline until it is won or lost.

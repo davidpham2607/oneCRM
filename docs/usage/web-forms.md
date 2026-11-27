@@ -1,6 +1,7 @@
+# Web forms
+
 <div v-pre>
 
-# Web forms
 
 Web forms are public forms in oneCRM that turn what a visitor sends into a lead or a support ticket.
 You share a form as a link or embed it in your website. Each submission creates the record, assigns it, and emails the people you choose.

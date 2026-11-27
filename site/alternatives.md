@@ -5,9 +5,10 @@ description: "Honest comparisons of oneCRM with the self-hosted and cloud CRMs t
 source_path: "/alternatives"
 ---
 
+# oneCRM compared with other CRMs
+
 <div v-pre>
 
-# oneCRM compared with other CRMs
 
 Each comparison is sourced, dated and says when the other app is the better choice. oneCRM is $99 once, with no per-user fees. Here is what each alternative costs.
 

@@ -4,9 +4,10 @@ description: "oneCRM and self-hosted Invoice Ninja compared: licence, hosting, i
 source_path: "/vs/invoice-ninja"
 ---
 
+# oneCRM vs Invoice Ninja
+
 <div v-pre>
 
-# oneCRM vs Invoice Ninja
 
 Invoice Ninja is excellent, free self-hosted invoicing with native apps. Pick it if billing is all you need. oneCRM adds the rest of client work  -  leads and deals, support tickets, a knowledge base and modules  -  and includes Peppol and VeriFactu without a separate licence.
 

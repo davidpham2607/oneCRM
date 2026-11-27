@@ -1,6 +1,7 @@
+# Cron job
+
 <div v-pre>
 
-# Cron job
 
 This guide shows how to set up the cron job that oneCRM needs to run every minute.
 Queued emails, automations, webhooks, reminders, recurring invoices, and other background work depend on it. A [Docker installation](./docker.md) already runs it.

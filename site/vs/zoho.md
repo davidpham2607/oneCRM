@@ -4,9 +4,10 @@ description: "Looking for a Zoho CRM alternative? oneCRM compared with Zoho CRM,
 source_path: "/vs/zoho"
 ---
 
+# oneCRM vs Zoho
+
 <div v-pre>
 
-# oneCRM vs Zoho
 
 Zoho is a huge cloud suite: pick it if you want nothing to host, native mobile apps and thousands of integrations. But CRM, invoicing, projects and help desk are separate apps and plans. oneCRM puts them in one self-hosted app for a one-time price, with no per-user fees.
 

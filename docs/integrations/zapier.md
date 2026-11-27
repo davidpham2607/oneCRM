@@ -1,6 +1,7 @@
+# Zapier
+
 <div v-pre>
 
-# Zapier
 
 Zapier connects oneCRM to thousands of other apps, so new leads, contacts, tickets, and payments can start automations without code.
 

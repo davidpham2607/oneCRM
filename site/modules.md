@@ -4,9 +4,10 @@ description: "Browse official and partner modules and add-ons that extend oneCRM
 source_path: "/modules"
 ---
 
+# Add-on modules
+
 <div v-pre>
 
-# Add-on modules
 
 Extend oneCRM with official Next modules and Classic modules from CodeCanyon authors.
 

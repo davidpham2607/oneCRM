@@ -4,9 +4,10 @@ description: "Log consent, handle data export and erasure requests, and give cus
 source_path: "/features/gdpr"
 ---
 
+# Handle privacy requests on a CRM you host
+
 <div v-pre>
 
-# Handle privacy requests on a CRM you host
 
 Record consent and handle requests for data exports or deletion in one place. Customers can send requests from your portal, and your team can track each step.
 

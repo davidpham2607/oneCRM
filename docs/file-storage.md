@@ -1,6 +1,7 @@
+# File storage
+
 <div v-pre>
 
-# File storage
 
 oneCRM keeps attachments, email attachments, logos and profile photos on the server where it is installed.
 You can keep them in an S3-compatible bucket instead, set up in **Settings → System → File storage**.

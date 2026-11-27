@@ -5,9 +5,10 @@ description: "Run oneCRM on your own server with a one-time licence. Manage clie
 source_path: "/self-hosted-crm"
 ---
 
+# Your client business, on a server you control
+
 <div v-pre>
 
-# Your client business, on a server you control
 
 Manage clients, invoices, and projects with a self-hosted CRM. Pay once for your licence and choose where your business records live.
 

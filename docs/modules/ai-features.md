@@ -1,6 +1,7 @@
+# AI features
+
 <div v-pre>
 
-# AI features
 
 An AI feature groups your module's AI capabilities so admins can turn each one on or off and you can check it before use.
 Create an `AiFeature` class and register it in your [module definition](./module-definition.md):

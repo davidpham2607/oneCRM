@@ -4,9 +4,10 @@ description: "Client portal software built into oneCRM: clients pay invoices, ap
 source_path: "/features/client-portal"
 ---
 
+# Give clients one place to pay, approve, and ask
+
 <div v-pre>
 
-# Give clients one place to pay, approve, and ask
 
 oneCRM is a CRM with a client portal built in. Customers pay invoices, approve quotes, check project progress, and ask for help under your branding.
 

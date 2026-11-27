@@ -4,9 +4,10 @@ description: "oneCRM and Pipedrive compared: cost over three years, hosting, lea
 source_path: "/vs/pipedrive"
 ---
 
+# oneCRM vs Pipedrive
+
 <div v-pre>
 
-# oneCRM vs Pipedrive
 
 Pipedrive is a focused, easy sales CRM with a leads inbox, visual pipelines and polished mobile apps. Pick it if selling is all your team does. oneCRM has the same leads-to-deals flow, then keeps going with quotes, invoices, projects, time and a ticket desk, for a one-time price instead of per seat every month.
 

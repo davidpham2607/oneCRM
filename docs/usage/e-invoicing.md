@@ -1,6 +1,7 @@
+# E-invoicing
+
 <div v-pre>
 
-# E-invoicing
 
 The EInvoicing module creates structured e-invoice files from invoices and credit notes, to download, email or send over a network.
 This page covers its setup. To send or register documents, see [Sending e-invoices](./sending-e-invoices.md) and [VeriFactu](./verifactu.md).

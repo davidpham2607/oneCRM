@@ -1,6 +1,7 @@
+# Testing modules
+
 <div v-pre>
 
-# Testing modules
 
 This page explains how to generate and run a module's tests and which test helpers oneCRM provides.
 Tests live under `modules/{ModuleName}/tests/`.
