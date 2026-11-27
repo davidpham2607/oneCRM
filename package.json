@@ -1,0 +1,13 @@
+{
+  "name": "onecrm-web",
+  "version": "1.0.0",
+  "description": "oneCRM Official Website & Documentation",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

@@ -1,0 +1,314 @@
+[
+  {
+    "text": "Getting started",
+    "items": [
+      {
+        "text": "Introduction",
+        "link": "/introduction"
+      },
+      {
+        "text": "Requirements",
+        "link": "/requirements"
+      },
+      {
+        "text": "Installation",
+        "link": "/installation"
+      },
+      {
+        "text": "Docker installation",
+        "link": "/docker"
+      },
+      {
+        "text": "Cron job",
+        "link": "/cron"
+      },
+      {
+        "text": "License & installations",
+        "link": "/license"
+      },
+      {
+        "text": "Initial setup",
+        "link": "/setup"
+      },
+      {
+        "text": "Updates & patches",
+        "link": "/update"
+      },
+      {
+        "text": "Move to a new server or domain",
+        "link": "/transfer"
+      },
+      {
+        "text": "Move from Classic",
+        "link": "/move-from-classic"
+      },
+      {
+        "text": "Troubleshooting",
+        "link": "/troubleshooting"
+      }
+    ]
+  },
+  {
+    "text": "Configuration",
+    "items": [
+      {
+        "text": "AI",
+        "link": "/ai"
+      },
+      {
+        "text": "Mail templates",
+        "link": "/mail-templates"
+      },
+      {
+        "text": "Localization",
+        "link": "/localization"
+      },
+      {
+        "text": "Queues",
+        "link": "/queues"
+      },
+      {
+        "text": "File storage",
+        "link": "/file-storage"
+      }
+    ]
+  },
+  {
+    "text": "Customers & sales",
+    "items": [
+      {
+        "text": "Contacts and companies",
+        "link": "/usage/contacts"
+      },
+      {
+        "text": "Leads",
+        "link": "/usage/leads"
+      },
+      {
+        "text": "Deals",
+        "link": "/usage/deals"
+      },
+      {
+        "text": "Documents",
+        "link": "/usage/documents"
+      },
+      {
+        "text": "Web forms",
+        "link": "/usage/web-forms"
+      }
+    ]
+  },
+  {
+    "text": "Billing",
+    "items": [
+      {
+        "text": "Invoices",
+        "link": "/usage/invoices"
+      },
+      {
+        "text": "Expenses",
+        "link": "/usage/expenses"
+      },
+      {
+        "text": "E-invoicing: Setup & formats",
+        "link": "/usage/e-invoicing"
+      },
+      {
+        "text": "E-invoicing: Sending (Peppol & FACe)",
+        "link": "/usage/sending-e-invoices"
+      },
+      {
+        "text": "E-invoicing: VeriFactu (Spain)",
+        "link": "/usage/verifactu"
+      }
+    ]
+  },
+  {
+    "text": "Projects & support",
+    "items": [
+      {
+        "text": "Projects",
+        "link": "/usage/projects"
+      },
+      {
+        "text": "Tasks",
+        "link": "/usage/tasks"
+      },
+      {
+        "text": "Tickets",
+        "link": "/usage/tickets"
+      },
+      {
+        "text": "Inbox",
+        "link": "/usage/inbox"
+      },
+      {
+        "text": "Knowledge base",
+        "link": "/usage/knowledge-base"
+      }
+    ]
+  },
+  {
+    "text": "Automation & data",
+    "items": [
+      {
+        "text": "Reports & dashboards",
+        "link": "/usage/reports"
+      },
+      {
+        "text": "Automations",
+        "link": "/usage/automations"
+      },
+      {
+        "text": "Webhooks",
+        "link": "/usage/webhooks"
+      },
+      {
+        "text": "Privacy & GDPR",
+        "link": "/privacy/gdpr-compliance"
+      }
+    ]
+  },
+  {
+    "text": "Integrations",
+    "items": [
+      {
+        "text": "Payment gateways",
+        "link": "/payment-gateways"
+      },
+      {
+        "text": "REST API",
+        "link": "/api"
+      },
+      {
+        "text": "Claude & ChatGPT (MCP)",
+        "link": "/integrations/mcp"
+      },
+      {
+        "text": "Google",
+        "link": "/integrations/google"
+      },
+      {
+        "text": "Meta",
+        "link": "/integrations/meta"
+      },
+      {
+        "text": "Microsoft",
+        "link": "/integrations/microsoft"
+      },
+      {
+        "text": "Pusher",
+        "link": "/integrations/pusher"
+      },
+      {
+        "text": "reCaptcha",
+        "link": "/integrations/recaptcha"
+      },
+      {
+        "text": "Zapier",
+        "link": "/integrations/zapier"
+      }
+    ]
+  },
+  {
+    "text": "Modules (Developer Docs)",
+    "items": [
+      {
+        "text": "Getting started",
+        "link": "/modules/getting-started"
+      },
+      {
+        "text": "Module definition",
+        "link": "/modules/module-definition"
+      },
+      {
+        "text": "Routes",
+        "link": "/modules/routes"
+      },
+      {
+        "text": "Authorization",
+        "link": "/modules/authorization"
+      },
+      {
+        "text": "Files and uploads",
+        "link": "/modules/files-and-uploads"
+      },
+      {
+        "text": "Translations",
+        "link": "/modules/translations"
+      },
+      {
+        "text": "Public assets",
+        "link": "/modules/public-assets"
+      },
+      {
+        "text": "Pages",
+        "link": "/modules/pages"
+      },
+      {
+        "text": "Resources",
+        "link": "/modules/resources"
+      },
+      {
+        "text": "Tables, boards and lists",
+        "link": "/modules/tables"
+      },
+      {
+        "text": "Forms",
+        "link": "/modules/forms"
+      },
+      {
+        "text": "Livewire components",
+        "link": "/modules/livewire-components"
+      },
+      {
+        "text": "Admin integration",
+        "link": "/modules/admin-integration"
+      },
+      {
+        "text": "Customer portal",
+        "link": "/modules/customer-portal"
+      },
+      {
+        "text": "Extending other modules",
+        "link": "/modules/extending-other-modules"
+      },
+      {
+        "text": "Notifications and mail",
+        "link": "/modules/notifications-and-mail"
+      },
+      {
+        "text": "Automations (Module)",
+        "link": "/modules/automations"
+      },
+      {
+        "text": "AI features (Module)",
+        "link": "/modules/ai-features"
+      },
+      {
+        "text": "Payment gateways (Module)",
+        "link": "/modules/payment-gateways"
+      },
+      {
+        "text": "Testing",
+        "link": "/modules/testing"
+      },
+      {
+        "text": "Deleting a module",
+        "link": "/modules/module-teardown"
+      },
+      {
+        "text": "Packaging and release",
+        "link": "/modules/packaging-and-validation"
+      },
+      {
+        "text": "Updates and licensing",
+        "link": "/modules/updates-and-licensing"
+      },
+      {
+        "text": "Upgrading your module",
+        "link": "/modules/upgrading-your-module"
+      }
+    ]
+  }
+]
