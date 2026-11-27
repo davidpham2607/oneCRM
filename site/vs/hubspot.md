@@ -1,114 +1,29 @@
 ---
-title: "oneCRM vs HubSpot: a self-hosted HubSpot alternative  -  oneCRM"
-description: "Looking for a HubSpot alternative? oneCRM and HubSpot compared: three-year cost, hosting, CRM, quotes, billing, projects, and when HubSpot is better."
+title: "So sánh oneCRM vs HubSpot: Tối ưu chi phí cho doanh nghiệp dịch vụ"
+description: "So sánh chi phí sở hữu, tính năng bán hàng và quản trị khách hàng giữa oneCRM (tự lưu trữ) và HubSpot (SaaS đám mây)."
 source_path: "/vs/hubspot"
 ---
 
-# oneCRM vs HubSpot
+# So sánh oneCRM vs HubSpot
 
 <div v-pre>
 
+HubSpot là nền tảng Inbound Marketing & CRM SaaS nổi tiếng toàn cầu. Bản miễn phí rất phổ biến nhưng chi phí tăng vọt khi bạn cần các tính năng tự động hóa, báo giá và quản lý hợp đồng thực tế. **oneCRM mang lại toàn bộ công cụ bán hàng, dự án, hóa đơn và hỗ trợ kỹ thuật trên máy chủ riêng của bạn với mức phí đầu tư một lần duy nhất.**
 
-HubSpot is the best-known marketing and sales CRM, with a generous free plan and polished apps. Pick it for inbound marketing and sales at scale. For client work  -  quotes, projects, time, invoices and a ticket desk  -  the HubSpot plans you need are priced per seat every month, while oneCRM includes them for a one-time price.
-
-| Overview | oneCRM | HubSpot |
+| Tiêu chí so sánh | oneCRM | HubSpot |
 | :--- | :--- | :--- |
-| Best for | Agencies, consultants and service businesses | Marketing and sales teams focused on growth |
-| Cost | $99 one-time, 1 year of updates and support | Free CRM; paid plans per seat per month |
-| Hosting | Your own server | HubSpot cloud (US, EU, Canada, Australia) |
+| **Mô hình chi phí** | **$99 mua một lần sở hữu vĩnh viễn** | Gói Starter từ $20/tháng, gói Pro từ **$500 - $800/tháng** |
+| **Phí theo số lượng liên hệ (Contacts)** | **Không giới hạn**, không phụ phí danh bạ | Phụ phí tăng lũy tiến khi danh bạ vượt mốc 1,000 / 10,000 contacts |
+| **Hạ tầng máy chủ** | **Tự lưu trữ (Self-Hosted)**, sở hữu 100% dữ liệu | Đám mây HubSpot độc quyền |
+| **Quản lý dự án & Chấm công** | **Tích hợp sẵn** (kèm Project Templates) | HubSpot không chuyên về quản lý dự án và chấm công |
+| **Hóa đơn & Hóa đơn định kỳ** | **Tích hợp sẵn** | HubSpot Payments (chỉ hỗ trợ số ít quốc gia, phụ phí cao) |
+| **Trợ lý AI & MCP Server** | **Tích hợp sẵn, tự dùng API Key (OpenAI, Gemini)** | HubSpot AI (yêu cầu nâng cấp gói đắt tiền) |
+| **Tự động hóa quy trình (Automations)** | **Có sẵn bộ dựng No-Code** | Phải nâng cấp lên gói Professional ($500+/tháng) |
 
-| Capability | oneCRM | HubSpot |
-| :--- | :--- | :--- |
-| **Cost & hosting** | | |
-| Pricing model | One-time licence, no per-user fees | Per seat per month; onboarding fees on Professional |
-| 5 users for 3 years<br>HubSpot list prices: quotes need Revenue Hub Professional, from $85 per seat per month. A help desk, knowledge base and customer portal need Service Hub Professional on top. | $277 with two optional renewals, plus your hosting | From about $15,300 |
-| Free plan | No | Up to 2 users |
-| Where your data lives | Your server, in any country | One HubSpot region per account |
-| Self-hosting | Yes | No |
-| Hosting, backups and updates handled for you | No | Yes |
-| **CRM & sales** | | |
-| Lead capture and qualification | Yes | Yes |
-| Deal pipelines | Yes | Yes |
-| Web-to-lead forms | Yes | Yes |
-| Quotes | Yes | Revenue Hub Professional |
-| Email inbox in the CRM | [Built in: Gmail, Outlook and IMAP](/site/features/email-inbox) | Yes |
-| Marketing email campaigns | [Paid Marketing module](/site/features/email-marketing) | Yes |
-| **Billing & finance** | | |
-| Invoices | Yes | Yes, free; one currency on free tools |
-| Recurring billing | Recurring invoices | Subscriptions |
-| Online payments | Stripe, PayPal or Mollie | HubSpot Payments (US, UK, Canada) or Stripe |
-| Expenses | Yes | No |
-| EU e-invoicing<br>oneCRM sends over Peppol through your own Recommand, e-invoice.be or Billit account. | Built in (beta): XRechnung, ZUGFeRD, Factur-X, Facturae and more; Peppol and FACe delivery | Check with vendor |
-| **Projects & support** | | |
-| Projects and tasks | Yes | Basic projects object |
-| Time tracking and billing time | Yes | Marketplace apps |
-| Support tickets | Yes | Basic on free; help desk on Service Hub Professional |
-| Knowledge base | Yes | Service Hub Professional |
-| Client portal | Yes | Service Hub Professional |
-| **Platform** | | |
-| Native mobile apps | No | Yes |
-| AI features | Yes, with your own OpenAI, Anthropic or Gemini key | Breeze, with usage credits |
-| Automations | Yes | Workflows on paid plans |
-| Integrations | Google and Microsoft mailboxes; Zapier in beta | 1,000+ marketplace apps |
+---
 
-### Choose oneCRM if…
+### Kết luận cho doanh nghiệp SME
 
-- You bill clients for projects and time, and need quotes, invoices and expenses in the CRM.
-- You want a ticket desk, knowledge base and client portal without paying per seat.
-- You need customer data on your own server, or EN 16931 e-invoices and VeriFactu.
-- Your team is growing and per-seat plans with onboarding fees add up.
-
-### Choose HubSpot if…
-
-- Inbound marketing, email campaigns and sales sequences are central to how you grow.
-- You do not want to run a server, backups or updates.
-- You need native mobile apps and a large integration marketplace.
-- The free CRM for up to 2 users covers what you need.
-
-### Moving from HubSpot
-
-There is no official HubSpot importer. Export contacts, companies and deals from HubSpot as CSV and use the oneCRM CSV import for leads, customers and contacts.
-
-Facts about HubSpot were last checked on October 13, 2026. Spotted something out of date?
- [
- Tell us
- ](/site/contact)
-
-- [
- HubSpot product and services catalog
- ](https://legal.hubspot.com/hubspot-product-and-services-catalog)
-- [
- HubSpot quotes requirements
- ](https://knowledge.hubspot.com/quotes/compare-legacy-quotes-and-quotes)
-- [
- HubSpot commerce tools
- ](https://www.hubspot.com/products/commerce)
-- [
- HubSpot projects object
- ](https://knowledge.hubspot.com/records/understand-and-use-projects-object)
-- [
- HubSpot Service Hub pricing
- ](https://blog.hubspot.com/service/hubspot-service-hub-pricing)
-- [
- HubSpot data hosting
- ](https://knowledge.hubspot.com/account-security/hubspot-cloud-infrastructure-and-data-hosting-frequently-asked-questions)
-
-### oneCRM vs Dolibarr
-
-### oneCRM vs Invoice Ninja
-
-### oneCRM vs EspoCRM
-
-### oneCRM vs SuiteCRM
-
-### oneCRM vs Zoho
-
-### oneCRM vs Bitrix24
-
-### oneCRM vs Pipedrive
-
-## Get started with oneCRM
-
-Try the demo with a job you handle every day. See how oneCRM brings your client work and billing together.
+Nếu bạn là doanh nghiệp dịch vụ (Agency, tư vấn, IT, xây dựng, dịch vụ chuyên nghiệp), chi phí duy trì hàng ngàn đô la mỗi năm cho HubSpot là một sự lãng phí lớn. oneCRM cung cấp chính xác những gì bạn cần để quản lý từ cơ hội bán hàng đến hóa đơn thanh toán với chi phí gần như bằng 0 sau khi đầu tư ban đầu.
 
 </div>

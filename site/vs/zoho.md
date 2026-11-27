@@ -1,117 +1,38 @@
 ---
-title: "oneCRM vs Zoho CRM: a one-time-licence Zoho CRM alternative  -  oneCRM"
-description: "Looking for a Zoho CRM alternative? oneCRM compared with Zoho CRM, Zoho One and Zoho Books: three-year cost, hosting, features, and when Zoho is better."
+title: "So sánh oneCRM vs Zoho CRM: Đâu là lựa chọn phù hợp cho doanh nghiệp của bạn?"
+description: "So sánh chi tiết oneCRM và Zoho CRM: chi phí bản quyền, tự lưu trữ máy chủ riêng, tính năng bán hàng, dự án và chăm sóc khách hàng."
 source_path: "/vs/zoho"
 ---
 
-# oneCRM vs Zoho
+# So sánh oneCRM vs Zoho CRM
 
 <div v-pre>
 
+Zoho CRM là một nền tảng SaaS đám mây khổng lồ với hệ sinh thái hàng chục ứng dụng đi kèm. Phù hợp nếu bạn cần tích hợp toàn bộ các giải pháp marketing, bán hàng và kế toán trên đám mây của Zoho. Ngược lại, **oneCRM là giải pháp tinh gọn, tự lưu trữ (Self-Hosted)**, tập trung trọn vẹn vào vòng đời khách hàng dịch vụ từ báo giá, dự án, theo dõi giờ làm đến thu tiền và hỗ trợ kỹ thuật - **không tính phí theo từng người dùng**.
 
-Zoho is a huge cloud suite: pick it if you want nothing to host, native mobile apps and thousands of integrations. But CRM, invoicing, projects and help desk are separate apps and plans. oneCRM puts them in one self-hosted app for a one-time price, with no per-user fees.
-
-| Overview | oneCRM | Zoho |
+| Tiêu chí tổng quan | oneCRM | Zoho CRM |
 | :--- | :--- | :--- |
-| Best for | Agencies, consultants and service businesses | Teams that want a hosted suite and can combine Zoho apps |
-| Cost | $99 one-time, 1 year of updates and support | Per user per month; free CRM for up to 3 users |
-| Hosting | Your own server | Zoho cloud (US, EU, India and more) |
+| **Phù hợp nhất cho** | Agency, công ty tư vấn, doanh nghiệp dịch vụ, IT | Doanh nghiệp muốn dùng trọn bộ hệ sinh thái Zoho Cloud |
+| **Mô hình chi phí** | **Mua một lần $99**, miễn phí trọn đời số người dùng | Thu phí hàng tháng trên từng người dùng (Per User/Month) |
+| **Quyền sở hữu máy chủ** | Tự lưu trữ trên VPS riêng (Hetzner, AWS, Cloud...) | Đám mây Zoho đa người thuê (Multi-tenant) |
 
-| Capability | oneCRM | Zoho |
+| So sánh tính năng chi tiết | oneCRM | Zoho CRM |
 | :--- | :--- | :--- |
-| **Cost & hosting** | | |
-| Pricing model | One-time licence, no per-user fees | Per user per month |
-| 5 users for 3 years<br>Zoho list prices billed yearly: CRM Professional $23 and Zoho One $90 per user per month. CRM alone has no projects or help desk; Zoho One includes them. | $277 with two optional renewals, plus your hosting | CRM Professional: $4,140<br><br>Zoho One: $16,200 |
-| Free plan | No | CRM for up to 3 users |
-| Where your data lives | Your server, in any country | Zoho data center chosen at sign-up |
-| Self-hosting | Yes | No |
-| Hosting, backups and updates handled for you | No | Yes |
-| **CRM & sales** | | |
-| Lead capture and qualification | Yes | Yes |
-| Deal pipelines | Yes | Yes |
-| Web-to-lead forms | Yes | Yes |
-| Quotes | Yes | CRM Professional and up |
-| Email inbox in the CRM | [Built in: Gmail, Outlook and IMAP](/site/features/email-inbox) | Yes |
-| Marketing email campaigns | [Paid Marketing module](/site/features/email-marketing) | Zoho Campaigns (separate app) |
-| **Billing & finance** | | |
-| Invoices and online payments | Yes | CRM Professional, or Zoho Invoice / Books |
-| Recurring invoices | Yes | Zoho Invoice / Books |
-| Expenses | Yes | Zoho Invoice / Books |
-| EU e-invoicing<br>oneCRM sends over Peppol through your own Recommand, e-invoice.be or Billit account. | Built in (beta): XRechnung, ZUGFeRD, Factur-X, Facturae and more; Peppol and FACe delivery | Zoho Books: XRechnung, ZUGFeRD, and Peppol in some countries |
-| **Projects & support** | | |
-| Projects and tasks | Yes | Zoho Projects (separate app) |
-| Time tracking and billing time | Yes | Zoho Projects Premium or Zoho Books Professional |
-| Support tickets | Yes | Zoho Desk (separate app) |
-| Knowledge base | Yes | Zoho Desk Standard and up |
-| Client portal | Yes | Higher CRM plans |
-| **Platform** | | |
-| Native mobile apps | No | Yes |
-| AI features | Yes, with your own OpenAI, Anthropic or Gemini key | Zia, on CRM Enterprise |
-| Automations | Yes | Yes |
-| Integrations | Google and Microsoft mailboxes; Zapier in beta | 2,500+ marketplace extensions |
-| REST API and webhooks | Yes | Yes |
+| **Chi phí sở hữu trong 3 năm (cho 10 nhân sự)** | **$277 + chi phí VPS riêng** (rất tiết kiệm) | Gói Standard: từ **$5,000+**; gói Professional: từ **$10,000+** |
+| Phí phát sinh khi thêm nhân viên | **0 VNĐ** (không giới hạn người dùng) | Tăng lũy tiến theo từng tài khoản mỗi tháng |
+| Quản lý dự án & Chấm công (Timesheet) | **Tích hợp sẵn** trong lõi | Phải mua thêm gói ứng dụng Zoho Projects |
+| Hỗ trợ khách hàng (Help Desk & Tickets) | **Tích hợp sẵn** trong lõi | Phải mua thêm gói Zoho Desk |
+| Báo giá & Hóa đơn trực tuyến | **Tích hợp sẵn** trong lõi | Tích hợp hạn chế, khuyến khích mua Zoho Books / Invoice |
+| Cổng thông tin khách hàng (Client Portal) | **Có sẵn tên miền riêng** | Chỉ có ở các gói cao cấp hoặc mua thêm cổng rời |
+| Trợ lý AI & MCP Server | **Có sẵn kết nối OpenAI, Gemini, Claude (BYOK)** | Trợ lý Zia của Zoho (tính phụ phí) |
+| Chủ quyền dữ liệu | **100% thuộc về bạn** | Thuộc máy chủ Zoho tại nước ngoài |
 
-### Choose oneCRM if…
+---
 
-- You want leads, quotes, projects, invoices, tickets and the client portal in one app, not five.
-- Your team is growing and per-user subscriptions add up.
-- You need customer data on your own server or in a specific country.
-- You need EN 16931 e-invoices, Peppol or VeriFactu next to your CRM.
+### Tại sao oneCRM là lựa chọn thông minh hơn cho SME?
 
-### Choose Zoho if…
-
-- You do not want to run a server, backups or updates.
-- You need native mobile apps and a large integration marketplace.
-- You want marketing email, analytics or accounting from the same vendor.
-- Up to 3 users on the free CRM plan is enough.
-
-### Moving from Zoho
-
-There is no official Zoho importer. Export leads, accounts and contacts from Zoho CRM as CSV and use the oneCRM CSV import for leads, customers and contacts. Keep invoice history in Zoho or as PDF exports.
-
-Facts about Zoho were last checked on October 13, 2026. Spotted something out of date?
- [
- Tell us
- ](/site/contact)
-
-- [
- Zoho CRM editions and prices
- ](https://www.zoho.com/crm/comparison.html)
-- [
- Zoho One pricing
- ](https://www.zoho.com/one/pricing.html)
-- [
- Zoho Books pricing (US)
- ](https://www.zoho.com/us/books/pricing/)
-- [
- Zoho Desk pricing
- ](https://www.zoho.com/desk/pricing.html)
-- [
- Zoho Projects pricing
- ](https://www.zoho.com/projects/pricing.html)
-- [
- Zoho Books XRechnung and ZUGFeRD
- ](https://www.zoho.com/de-de/books/accounting-software-features/xrechnung-und-zugferd/)
-- [
- Zoho data centers
- ](https://www.zoho.com/know-your-datacenter.html)
-
-### oneCRM vs Dolibarr
-
-### oneCRM vs Invoice Ninja
-
-### oneCRM vs EspoCRM
-
-### oneCRM vs SuiteCRM
-
-### oneCRM vs Bitrix24
-
-### oneCRM vs HubSpot
-
-### oneCRM vs Pipedrive
-
-## Get started with oneCRM
-
-Try the demo with a job you handle every day. See how oneCRM brings your client work and billing together.
+1. **Triệt tiêu lãng phí chi phí phần mềm (Lean Management):** Với Zoho CRM, doanh nghiệp càng phát triển và tuyển thêm nhân sự thì chi phí thuê bao hàng tháng càng tăng chóng mặt. Với oneCRM, chi phí phần mềm cố định chỉ $99.
+2. **Không bị phân mảnh ứng dụng:** Bạn không cần phải mua và mở cùng lúc 4 tab (Zoho CRM, Zoho Projects, Zoho Desk, Zoho Books). Tất cả đều nằm trên **một bản ghi khách hàng duy nhất (Single Source of Truth)** trong oneCRM.
+3. **Hiện đại hóa với AI & MCP:** Dễ dàng kết nối các AI Agent hàng đầu thế giới (Claude, Cursor, ChatGPT) trực tiếp vào dữ liệu kinh doanh của bạn thông qua cổng MCP Server có sẵn.
 
 </div>
