@@ -1,0 +1,25 @@
+:root {
+  --crm-navy: #0F172A;
+  --crm-blue: #2563EB;
+  --crm-ai: #7C3AED;
+  --crm-success: #10B981;
+  --crm-surface: #F8FAFC;
+  --crm-muted: #64748B;
+  --crm-white: #FFFFFF;
+  --crm-border: #E2E8F0;
+  --crm-danger: #DC2626;
+  --crm-font-ui: Inter, system-ui, sans-serif;
+  --crm-font-content: "Be Vietnam Pro", system-ui, sans-serif;
+  --crm-radius: 12px;
+  --crm-container: 1280px;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--crm-surface); color: var(--crm-navy); font-family: var(--crm-font-content); line-height: 1.6; }
+.crm-container { max-width: var(--crm-container); margin-inline: auto; padding-inline: 16px; }
+.crm-card { background: white; border: 1px solid var(--crm-border); border-radius: var(--crm-radius); padding: 24px; }
+.crm-button { display: inline-flex; align-items:center; justify-content:center; min-height:44px; padding: 10px 20px; border-radius:8px; background: var(--crm-blue); color:white; text-decoration:none; font-weight:600; border:0; }
+.crm-button:hover { background:#1D4ED8; }
+:focus-visible { outline: 3px solid var(--crm-blue); outline-offset: 3px; }
+.crm-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr)); gap:16px; }
+@media(min-width:768px){ .crm-container{padding-inline:32px;} }
+@media(prefers-reduced-motion:reduce){ *,*::before,*::after{animation:none!important;transition:none!important;} }

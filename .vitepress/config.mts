@@ -3,19 +3,25 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'vi-VN',
   title: 'oneCRM',
-  description: 'Hệ thống CRM Tinh gọn Tự lưu trữ (Self-Hosted) với Toàn quyền Mã nguồn',
+  description: 'oneCRM - AI-First Business Platform. Làm chủ dữ liệu - Tinh gọn vận hành - Bứt phá tăng trưởng.',
   ignoreDeadLinks: true,
   
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'theme-color', content: '#3b82f6' }]
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['meta', { name: 'theme-color', content: '#2563EB' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Inter:wght@400;500;600;700;800&display=swap' }]
   ],
 
   themeConfig: {
     logo: {
-      text: 'oneCRM'
+      light: '/logo-light.svg',
+      dark: '/logo-dark.svg',
+      alt: 'oneCRM'
     },
-    siteTitle: 'oneCRM',
+    siteTitle: false,
 
     nav: [
       { text: 'Trang chủ', link: '/' },

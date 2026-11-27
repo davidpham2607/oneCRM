@@ -1,0 +1,98 @@
+/* oneCRM Official Brand Kit V1.0 Styling */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+  /* Brand Tokens */
+  --crm-navy: #0F172A;
+  --crm-blue: #2563EB;
+  --crm-blue-hover: #1D4ED8;
+  --crm-ai: #7C3AED;
+  --crm-success: #10B981;
+  --crm-surface: #F8FAFC;
+  --crm-muted: #64748B;
+  --crm-border: #E2E8F0;
+  --crm-radius: 12px;
+
+  /* VitePress Brand Overrides (Light Mode) */
+  --vp-c-brand-1: var(--crm-blue);
+  --vp-c-brand-2: var(--crm-blue-hover);
+  --vp-c-brand-3: #1E40AF;
+  --vp-c-brand-soft: rgba(37, 99, 235, 0.12);
+
+  --vp-font-family-base: "Be Vietnam Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --vp-font-family-headings: "Inter", "Be Vietnam Pro", sans-serif;
+
+  --vp-c-bg: #FFFFFF;
+  --vp-c-bg-alt: var(--crm-surface);
+  --vp-c-bg-elv: #FFFFFF;
+  --vp-c-text-1: var(--crm-navy);
+  --vp-c-text-2: var(--crm-muted);
+  --vp-c-border: var(--crm-border);
+}
+
+.dark {
+  /* VitePress Brand Overrides (Dark Mode - Brand Navy #0F172A) */
+  --vp-c-bg: #0F172A;
+  --vp-c-bg-alt: #1E293B;
+  --vp-c-bg-elv: #1E293B;
+  --vp-c-text-1: #F8FAFC;
+  --vp-c-text-2: #94A3B8;
+  --vp-c-border: #334155;
+  --vp-c-brand-1: #3B82F6;
+  --vp-c-brand-2: #60A5FA;
+  --vp-c-brand-3: #2563EB;
+  --vp-c-brand-soft: rgba(59, 130, 246, 0.16);
+}
+
+/* Navbar Logo Size adhering to Brand Kit guidelines (min 120px) */
+.VPNavBarTitle .logo {
+  height: 28px !important;
+  width: auto !important;
+  min-width: 120px;
+}
+
+/* Heading font styling */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--vp-font-family-headings) !important;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Custom AI highlight badge */
+.ai-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  border-radius: 9999px;
+  background-color: var(--crm-ai);
+  color: #FFFFFF;
+  margin-left: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Tables styling with brand borders & subtle shading */
+.vp-doc table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.vp-doc th {
+  background-color: var(--vp-c-bg-alt);
+  font-family: var(--vp-font-family-headings);
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc tr:nth-child(2n) {
+  background-color: rgba(248, 250, 252, 0.5);
+}
+
+.dark .vp-doc tr:nth-child(2n) {
+  background-color: rgba(30, 41, 59, 0.5);
+}

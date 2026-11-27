@@ -3,8 +3,11 @@ layout: home
 
 hero:
   name: "oneCRM"
-  text: "Hệ thống CRM Tự lưu trữ Tinh gọn & Hiện đại"
-  tagline: "Quản trị toàn diện Khách hàng, Phễu Deals, Dự án, Hóa đơn & Hỗ trợ kỹ thuật. Sở hữu 100% mã nguồn, chạy trên máy chủ riêng, không phụ phí theo User."
+  text: "AI-First Business Platform"
+  tagline: "Làm chủ dữ liệu - Tinh gọn vận hành - Bứt phá tăng trưởng. Nền tảng quản trị kinh doanh tự lưu trữ (Self-Hosted) tích hợp trợ lý AI và chuẩn kết nối MCP Server."
+  image:
+    src: /icon-primary.svg
+    alt: oneCRM Brand Icon
   actions:
     - theme: brand
       text: "Khám phá Tính năng"
@@ -17,29 +20,29 @@ hero:
       link: /docs/introduction
 
 features:
+  - icon: 🤖
+    title: AI-First & Chuẩn MCP Server
+    details: Tích hợp sâu trợ lý AI (OpenAI, Gemini, Claude) và chuẩn Model Context Protocol. AI tự chấm điểm Lead, bóc tách hóa đơn và phản hồi ticket.
   - icon: 🚀
     title: Nền tảng Laravel 13 & Livewire 4
-    details: Tái thiết kế từ đầu với kiến trúc hiện đại, hiệu năng vượt trội, hỗ trợ module hóa linh hoạt và tùy biến giao diện không cần build phức tạp.
-  - icon: 🤖
-    title: Trợ lý AI tích hợp sẵn (BYOK)
-    details: Tự do kết nối API Key OpenAI, Anthropic, Gemini. Tự động chấm điểm Lead, phân loại Ticket, viết nháp phản hồi và bóc tách hóa đơn.
-  - icon: ⚡
-    title: Chuẩn Model Context Protocol (MCP)
-    details: Tích hợp sẵn MCP Server. Cho phép các AI Agent (Claude, ChatGPT, Cursor) tương tác trực tiếp với CRM theo phân quyền từng nhân sự.
+    details: Tái thiết kế toàn diện từ đầu. Kiến trúc module hóa độc lập, giao diện động siêu tốc với Livewire SFC không cần build frontend phức tạp.
   - icon: 🔄
     title: Tự động hóa No-Code trực quan
-    details: Thiết lập kịch bản tự động hóa bằng ngôn ngữ tự nhiên. Tự động chăm sóc khách, nhắc nợ đến hạn và chuyển trạng thái công việc.
+    details: Thiết lập kịch bản tự động hóa bằng câu lệnh tự nhiên. Tự động chăm sóc khách, nhắc nợ quá hạn và chuyển trạng thái công việc.
   - icon: 💰
-    title: Tiết kiệm tối đa - Không phí theo User
-    details: Mua một lần sở hữu vĩnh viễn. Không giới hạn số lượng nhân viên và khách hàng, loại bỏ hoàn toàn chi phí SaaS đắt đỏ mỗi tháng.
+    title: Triệt tiêu chi phí thuê bao SaaS
+    details: Mua một lần sở hữu vĩnh viễn ($99). Không thu phí theo số lượng người dùng (No Per-Seat Fee), mở rộng quy mô không lo đội ngân sách.
   - icon: 🔒
-    title: Chủ quyền dữ liệu tuyệt đối (Self-Hosted)
-    details: Dữ liệu khách hàng, tài chính và hợp đồng nằm trọn vẹn trên máy chủ (VPS) do chính bạn kiểm soát, đảm bảo an toàn và bảo mật cao nhất.
+    title: Chủ quyền dữ liệu tuyệt đối (One Data)
+    details: Toàn bộ cơ sở dữ liệu khách hàng, hóa đơn và dự án nằm trọn vẹn trên máy chủ (VPS) do chính bạn kiểm soát, an toàn và bảo mật tối đa.
+  - icon: 🎯
+    title: Triết lý One Platform - One Business
+    details: Hợp nhất toàn bộ vòng đời khách hàng từ Bắt lead -> Báo giá -> Dự án -> Hóa đơn -> Hậu mãi trên một màn hình duy nhất.
 ---
 
 <div style="margin-top: 4rem; text-align: center;">
   <h2>Kịch bản ứng dụng tối ưu cho từng mô hình</h2>
-  <p style="color: var(--vp-c-text-2); max-width: 650px; margin: 0.5rem auto 2.5rem;">oneCRM được đóng gói chuẩn mực để giải quyết triệt để nỗi đau vận hành của từng ngành dịch vụ.</p>
+  <p style="color: var(--vp-c-text-2); max-width: 650px; margin: 0.5rem auto 2.5rem;">Được đóng gói chuẩn mực theo triết lý Tinh gọn để giải quyết triệt để bài toán vận hành của doanh nghiệp dịch vụ.</p>
 </div>
 
 | Phân khúc | Lợi ích cốt lõi | Hành động nhanh |
