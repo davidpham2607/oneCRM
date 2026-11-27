@@ -5,46 +5,22 @@ source_path: "/features/knowledge-base"
 ---
 
 <div v-pre>
-
-Self-service
-
-AI built in
-
 What AI can do here
 
--
+- Article suggestions
+ 
 
-Article suggestions
+ Suggest the matching article on a ticket, even when the wording differs.
+- Article drafting
+ 
 
-Suggest the matching article on a ticket, even when the wording differs.
-
--
-
-Article drafting
-
-Turn recurring ticket themes into new help articles.
-
-Explore AI assistant
+ Turn recurring ticket themes into new help articles.
 
 # Help customers help themselves
 
 Give customers a place to find answers at any hour. Publish guides for common questions so your team has more time for requests that need personal help.
 
-Get oneCRM Compare editions
-
-Knowledge base home
-
-N Northpeak Studio / Help Center
-
-Guides Contact Sign in
-
 How can we help?
-
-How to reset your portal password Portal
-
-Invite your team to the portal Portal
-
-Why your sign-in link expired Getting started
 
 Browse by topic
 
@@ -66,12 +42,6 @@ Projects
 
 Popular articles
 
-Pay an invoice online 48
-
-Accepting a quote online 31
-
-Approve a project milestone 19
-
 ### Instant search
 
 Customers find answers in seconds, day or night.
@@ -88,8 +58,6 @@ Suggest articles inside tickets to resolve faster.
 
 Learn which articles work and which need a rewrite.
 
-1 Organised articles · AI powered
-
 Customers find the answer without opening a ticket
 
 ## A help center your customers actually use
@@ -97,40 +65,24 @@ Customers find the answer without opening a ticket
 Group articles into nested categories, publish public guides, and keep internal-only articles for staff. Customers search, browse related articles, and vote on what was helpful.
 
 - Nested categories and draft or published articles
-
 - Public help center with optional login
-
 - Search, related articles, and helpful votes
-
-Article browser
 
 Knowledge Base
 
-31 articles
-
-Search the help center
-
 Getting started
-
-8
 
 Set up your account in five minutes
 
 Billing
 
-12
-
 Pay an invoice online
 
 Portal
 
-5
-
 Invite your team to the portal
 
 Projects
-
-6
 
 Approve a project milestone
 
@@ -141,12 +93,8 @@ Suggest the matching article while you reply
 Draft help articles from common ticket topics with AI. While your team replies to a ticket, oneCRM suggests relevant articles even when the customer uses different words.
 
 - Suggest articles on tickets by meaning
-
 - Draft articles from common ticket themes
-
 - Attachments and internal-only documentation
-
-Article suggestions
 
 #2847 · Login issue
 
@@ -158,59 +106,42 @@ Suggested for this ticket
 
 Accepting a quote online
 
-Runs on infrastructure you control  -  self-hosted CRM with a one-time licence.
+Runs on infrastructure you control  - 
+ [
+ self-hosted CRM
+ ](https://onecrm.example.com/self-hosted-crm)
+ with a one-time licence.
 
 What AI can do here
 
--
+- Inbound email classification
+ 
 
-Inbound email classification
+ Pull spam, failed deliveries, and out-of-office mail out of the queue as it arrives.
+- Sentiment and urgency
+ 
 
-Pull spam, failed deliveries, and out-of-office mail out of the queue as it arrives.
+ See how the customer feels and how soon the ticket needs a reply  -  without changing staff priority.
+- Draft replies
+ 
 
--
+ Start from an AI-written response grounded in your docs and canned replies.
+- Thread summaries
+ 
 
-Sentiment and urgency
+ Understand long ticket histories at a glance.
+- Article suggestions
+ 
 
-See how the customer feels and how soon the ticket needs a reply  -  without changing staff priority.
-
--
-
-Draft replies
-
-Start from an AI-written response grounded in your docs and canned replies.
-
--
-
-Thread summaries
-
-Understand long ticket histories at a glance.
-
--
-
-Article suggestions
-
-Surface knowledge base articles that may resolve the issue.
-
-Explore AI assistant
+ Surface knowledge base articles that may resolve the issue.
 
 ### Support & help desk
 
-Email, forms, and portal messages in one ticket queue.
-
-SR Sarah Reed 09:14
-
 The invoice PDF attached to INV-0039 downloads as 0 KB.
-
-JM James 09:18
 
 Thanks Sarah  -  checking the generated file now.
 
 ### Customer portal
-
-A branded portal for payments, approvals, and support.
-
-crm.yoursite.com
 
 Invoices
 
@@ -226,55 +157,38 @@ Tickets
 
 What AI can do here
 
--
+- Inbound classification
+ 
 
-Inbound classification
+ Sort new form leads and inbound ticket email  -  spam, buying intent, sentiment, and urgency.
+- Lead scoring & next actions
+ 
 
-Sort new form leads and inbound ticket email  -  spam, buying intent, sentiment, and urgency.
+ Score leads and recommend the best follow-up.
+- Ticket drafts & summaries
+ 
 
--
+ Reply faster with drafts grounded in docs and canned replies, plus thread recaps.
+- Checklists & receipts
+ 
 
-Lead scoring & next actions
+ Generate task checklists and subtasks, and extract expense receipt data.
+- Writing help
+ 
 
-Score leads and recommend the best follow-up.
+ Improve, fix grammar, shorten, lengthen, simplify, adjust tone, or personalise selected text.
+- KB article suggestions
+ 
 
--
+ Match tickets to help articles by meaning when staff reply.
+- Automation builder
+ 
 
-Ticket drafts & summaries
-
-Reply faster with drafts grounded in docs and canned replies, plus thread recaps.
-
--
-
-Checklists & receipts
-
-Generate task checklists and subtasks, and extract expense receipt data.
-
--
-
-Writing help
-
-Improve, fix grammar, shorten, lengthen, simplify, adjust tone, or personalise selected text.
-
--
-
-KB article suggestions
-
-Match tickets to help articles by meaning when staff reply.
-
--
-
-Automation builder
-
-Describe a workflow and let AI assemble it for you.
+ Describe a workflow and let AI assemble it for you.
 
 ### AI assistant
 
-Classify inbound work, score leads, draft replies, and extract receipts.
-
 Add reply
-
-Draft reply
 
 Frustrated · High urgency
 
@@ -284,36 +198,24 @@ Bright Studio
 
 Elena Voss
 
-87
-
 Suggested next action
 
 Prepare discovery call
-
-November 23, 2026
 
 ## A CRM workflow, step by step: from first lead to paid invoice
 
 A CRM workflow is the path one customer takes through your business. This guide follows a single customer through seven steps in oneCRM...
 
-November 22, 2026
-
 ## How to move from oneCRM Classic to Next
 
 A step-by-step guide to moving from oneCRM Classic to Next with the free Classic Migrator: what to check first, how the migration runs,...
-
-November 19, 2026
 
 ## oneCRM 1.0 is here
 
 oneCRM is a new edition of oneCRM, rebuilt from the ground up: automations, AI with your own provider, a shared inbox, PDF temp...
 
-View all posts
-
 ## Get started with oneCRM
 
 Try the demo with a job you handle every day. See how oneCRM brings your client work and billing together.
-
-Get oneCRM Try demo
 
 </div>

@@ -5,7 +5,6 @@ source_path: "/privacy"
 ---
 
 <div v-pre>
-
 oneCRM ("we", "us") operates onecrm.example.com. This policy explains how we collect, use, and protect personal data when you visit our website, create an account, purchase a licence, or contact support.
 
 ## Your self-hosted CRM and this website
@@ -19,24 +18,18 @@ Your installation can send us information for licence registration, verification
 ## Data we collect
 
 - Account information: name, email address, and password (stored hashed).
-
 - Purchase and licence data: order references, licence keys, product entitlements, and support status.
-
 - Installation data: licence key, installation identifier, application URL, environment, optional label, URL changes, and the time of licence checks.
-
 - Support data: your name, email, messages, attachments, product details, and any access credentials you choose to provide through the secure support form.
-
 - Bug reports: the description and diagnostics submitted from your CRM, which may include your installation URL, software and PHP versions, system information, logs, reporter details, and IP address. Status emails are optional when you submit a report.
-
 - Envato connection: if you sign in with Envato, we receive your account identifier, username, email, and authorisation tokens, and retrieve purchase and support-entitlement information to verify your licences.
-
 - Technical data: IP address, browser type, and server logs for security and diagnostics.
 
 ## Payment data
 
 Paddle is the Merchant of Record for paid website orders and handles payment, tax, and billing information under its own privacy policy. We receive the buyer and transaction information needed to deliver your purchase, manage licences, and handle support or disputes. We do not receive or store full payment-card details.
 
-Paddle Privacy Policy
+[Paddle Privacy Policy](https://www.paddle.com/legal/privacy)
 
 ## Cookies
 
@@ -44,20 +37,16 @@ We use cookies for sessions, sign-in, and form security. The documentation also 
 
 We use Google Analytics to measure page visits, product and demo clicks, checkout activity, and purchases. This can include device and browser information, approximate location, product identifiers, transaction references, and purchase values. Google may use cookies and processes this information under its privacy policy.
 
-Google Privacy Policy
+[Google Privacy Policy](https://policies.google.com/privacy)
 
 Paddle checkout and external services you visit may use their own cookies under their policies. Your browser lets you manage stored cookies and site data; this does not remove information already received by those services.
 
 ## How we use your data
 
 - To provide accounts, licences, downloads, and support.
-
 - To send transactional emails such as purchase confirmations and ticket updates.
-
 - To send marketing emails about new releases and offers, as described below.
-
 - To prevent fraud, enforce our terms, and maintain security.
-
 - To measure website traffic and improve our pages via Google Analytics.
 
 ## Marketing emails
@@ -98,12 +87,12 @@ Support messages, attachments, and bug reports are kept for handling the issue, 
 
 ## Your rights
 
-Depending on the law that applies, you may have rights to access, correct, delete, or receive a portable copy of your personal data, restrict processing, object to processing based on legitimate interests, and withdraw consent. Submit a request through our Contact page; you do not need an active support licence to make a privacy request.
+Depending on the law that applies, you may have rights to access, correct, delete, or receive a portable copy of your personal data, restrict processing, object to processing based on legitimate interests, and withdraw consent. Submit a request through our [Contact](https://onecrm.example.com/contact) page; you do not need an active support licence to make a privacy request.
 
 We may ask for information needed to verify your identity and will respond within the period required by applicable law. Some rights have legal exceptions. You may also complain to the data-protection authority responsible for your country or region.
 
 ## Contact
 
-Privacy questions or data subject requests: Contact us .
+Privacy questions or data subject requests: [Contact us](https://onecrm.example.com/contact).
 
 </div>

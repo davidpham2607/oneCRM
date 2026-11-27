@@ -5,44 +5,33 @@ source_path: "/support-policy"
 ---
 
 <div v-pre>
-
 Every paid licence includes ticket support for a set period: 1 year for oneCRM, and 6 months for oneCRM Classic website licences. Support is per product, so a module licence covers tickets about that module only.
 
 ## What support includes
 
 - Answers to questions about how the product's features work.
-
 - Help with bugs and errors in the product.
-
 - Help with third-party libraries bundled with the product.
-
 - Fixes for confirmed bugs, delivered through updates and patches.
 
 ## What support does not include
 
 - Installing the product or setting up your server.
-
 - Hosting, server, PHP, or database configuration.
-
 - Customisation or custom development, including features beyond what the product offers.
-
 - Problems caused by your own code changes.
-
 - General PHP or framework help.
-
 - Free modules.
 
 ## Before you open a ticket
 
 - Update to the latest version. The issue may already be fixed.
-
-- Check the documentation .
-
-- Make sure your server meets the requirements .
+- Check the [documentation](https://onecrm.example.com/docs/1.x/introduction).
+- Make sure your server meets the [requirements](https://onecrm.example.com/docs/1.x/requirements).
 
 ## How to get support
 
-Sign in and open a ticket from the Contact page. Include the steps to reproduce the issue and any error messages. Tickets are our only support channel.
+Sign in and open a ticket from the [Contact](https://onecrm.example.com/contact) page. Include the steps to reproduce the issue and any error messages. Tickets are our only support channel.
 
 ## Response time
 

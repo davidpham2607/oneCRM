@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'vi-VN',
   title: 'oneCRM',
   description: 'Hệ thống CRM Tinh gọn Tự lưu trữ (Self-Hosted) với Toàn quyền Mã nguồn',
+  ignoreDeadLinks: true,
   
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],

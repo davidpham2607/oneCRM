@@ -5,57 +5,38 @@ source_path: "/modules/classic-migrator"
 ---
 
 <div v-pre>
-
-Next
-
 # Classic Migrator
 
 License price:
 
 Free
 
-Get free Documentation
-
-Free to claim with an account. Terms
-
-Documentation View documentation
-
-Latest version v1.0.1
-
-Last updated Nov 21, 2026
-
-Listed Nov 18, 2026
-
-Updates included Lifetime
-
-Classic Migrator is a oneCRM add-on module. It requires oneCRM and is not compatible with oneCRM Classic.
+Free to claim with an account.
+ [
+ Terms
+ ](https://onecrm.example.com/terms)
 
 Classic Migrator moves your oneCRM Classic data into a fresh oneCRM installation. It is free: install it, point it at your Classic folder or a SQL dump, and bring over the records your team works with every day.
 
 ## What comes with you
 
-- People: staff and roles, customers, contacts and leads, with their notes, tags, files and custom fields
-
-- Sales and billing: invoices with payments, recurring invoices, credit notes, estimates, the items catalog and expenses
-
-- Work: projects with members and milestones, and tasks with checklists, comments and timers
-
-- Support: tickets with attachments, canned replies and the knowledge base
-
-- Web-to-lead forms and saved filters that map to Next
+- **People:** staff and roles, customers, contacts and leads, with their notes, tags, files and custom fields
+- **Sales and billing:** invoices with payments, recurring invoices, credit notes, estimates, the items catalog and expenses
+- **Work:** projects with members and milestones, and tasks with checklists, comments and timers
+- **Support:** tickets with attachments, canned replies and the knowledge base
+- **Web-to-lead forms and saved filters** that map to Next
 
 ## How it works
 
-- Open Settings → Classic migration in oneCRM.
-
-- Point it at the Classic folder on the same server, or upload a phpMyAdmin SQL dump.
-
-- Read the report of what will and will not move, then let the batches run. Close the tab and open it again to resume.
+1. Open **Settings → Classic migration** in oneCRM.
+2. Point it at the Classic folder on the same server, or upload a phpMyAdmin SQL dump.
+3. Read the report of what will and will not move, then let the batches run. Close the tab and open it again to resume.
 
 ## After the move
 
 Staff and customers sign in with their Classic passwords, and Next replaces each one on the first sign-in. Classic invoice, estimate, ticket, web form and knowledge base links on the same address open the matching Next page. While the module is installed, you can undo the migration.
 
-Updates for this module are provided by oneCRM .
+Updates for this module are provided by
+ oneCRM.
 
 </div>
