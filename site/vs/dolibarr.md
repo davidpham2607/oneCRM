@@ -1,119 +1,53 @@
 ---
-title: "oneCRM vs Dolibarr: self-hosted CRM and ERP compared  -  oneCRM"
-description: "oneCRM and Dolibarr compared for self-hosting: licence, hosting, CRM, billing, projects, support desk, e-invoicing, and when Dolibarr is the better choice."
+title: "So sánh oneCRM vs Dolibarr: Lựa chọn CRM & ERP tự lưu trữ tối ưu"
+description: "So sánh oneCRM và Dolibarr tự lưu trữ: bản quyền, máy chủ, CRM, hóa đơn, quản lý dự án, help desk, hóa đơn điện tử và trường hợp nên chọn Dolibarr."
 source_path: "/vs/dolibarr"
 ---
 
-# oneCRM vs Dolibarr
+# So sánh oneCRM vs Dolibarr
 
 <div v-pre>
 
+Dolibarr là giải pháp ERP mã nguồn mở miễn phí theo module: phù hợp nếu doanh nghiệp bạn cần kế toán chuyên sâu, quản lý kho bãi, sản xuất hoặc nhân sự trong một ứng dụng. Ngược lại, **oneCRM được thiết kế tối ưu chuyên sâu cho doanh nghiệp dịch vụ**: quản lý toàn diện Lead, báo giá, dự án, thanh toán, hỗ trợ ticket và cổng thông tin khách hàng trong giao diện hiện đại, tích hợp sẵn hóa đơn điện tử, trợ lý AI và tự động hóa quy trình với mức giá trọn gói một lần.
 
-Dolibarr is a free, modular ERP: pick it if you need accounting, stock, manufacturing or HR in one open-source app. oneCRM is built for service businesses  -  leads, quotes, projects, billing, tickets and a client portal in one modern interface, with e-invoicing, AI and automations included for a one-time price.
-
-| Overview | oneCRM | Dolibarr |
+| Tiêu chí tổng quan | oneCRM | Dolibarr |
 | :--- | :--- | :--- |
-| Best for | Agencies, consultants and service businesses | SMEs that need a broad ERP: accounting, stock, manufacturing, HR |
-| Cost | $99 one-time, 1 year of updates and support | Free (GPL-3); paid add-ons on DoliStore |
-| Stack | Laravel and Livewire | PHP with its own framework |
+| **Phù hợp nhất cho** | Agency, công ty tư vấn, doanh nghiệp dịch vụ, IT & MSPs | Doanh nghiệp cần ERP tổng thể: kế toán kho bãi, sản xuất, nhân sự |
+| **Chi phí bản quyền** | **$99 mua một lần**, bao gồm 1 năm cập nhật & hỗ trợ | Miễn phí (GPL-3); mua thêm modules bổ trợ trên DoliStore |
+| **Công nghệ nền tảng** | **Laravel 13 & Livewire 4 hiện đại** | PHP framework truyền thống |
 
-| Capability | oneCRM | Dolibarr |
+| Hạng mục so sánh chi tiết | oneCRM | Dolibarr |
 | :--- | :--- | :--- |
-| **Licence & cost** | | |
-| Licence | Commercial, one-time | Open source (GPL-3.0) |
-| Price to self-host | $99 one-time, 1 year of updates and support | Free |
-| Paid extras | Optional modules, such as Proposals and Marketing | DoliStore add-ons (1,000+), typically one-off |
-| Vendor support | 1 year included, then optional renewal | Community forum; paid support from partners |
-| **Hosting** | | |
-| Databases | MySQL, MariaDB or PostgreSQL | MySQL, MariaDB or PostgreSQL |
-| PHP version | 8.4 or later | 7.2 to 8.5 (v24) |
-| Shared hosting | Yes, with PHP 8.4; a queue worker is optional | Yes |
-| **CRM & sales** | | |
-| Lead capture and qualification | Yes | Yes |
-| Deal pipelines | Yes | Yes |
-| Web-to-lead forms | Yes | Yes |
-| Quotes with online acceptance | Yes | Yes |
-| Proposals | [Paid Proposals module](/site/features/proposals) | Yes |
-| Contracts | No | Yes |
-| **Billing & finance** | | |
-| Invoices, credit notes, online payments | Yes | Yes |
-| Recurring invoices | Yes | Yes |
-| Expenses | Yes | Yes |
-| Double-entry accounting | No | Yes |
-| Stock, manufacturing, POS | No | Yes |
-| HR (leave, recruitment) | No | Yes |
-| EU e-invoicing<br>oneCRM sends over Peppol through your own Recommand, e-invoice.be or Billit account. | Built in (beta): XRechnung, ZUGFeRD, Factur-X, Facturae and more; Peppol and FACe delivery | Factur-X module; Peppol through DoliStore add-ons |
-| Spain VeriFactu | Yes | Check DoliStore |
-| **Projects & support** | | |
-| Projects, tasks and time tracking | Yes | Yes |
-| Bill tracked time | Yes | Yes |
-| Support tickets | Yes | Yes |
-| Knowledge base | Yes | Yes |
-| Client portal | Yes | WebPortal module |
-| **Automation & extensibility** | | |
-| AI drafting, scoring and classification | Yes, with your own OpenAI, Anthropic or Gemini key | AI module for text and field suggestions |
-| No-code automations | Yes | Limited |
-| REST API and webhooks | Yes | Yes |
-| Module system | Modules and a marketplace | Modules, hooks and a Module Builder |
-
-### Choose oneCRM if…
-
-- Your work is client projects, retainers or support, not stock and manufacturing.
-- You want leads, quotes, projects, invoices, tickets and the client portal to share one modern interface.
-- You need EN 16931 e-invoices, Peppol or VeriFactu without buying separate add-ons.
-- You want AI lead scoring, ticket classification and no-code automations, and one vendor to ask for support.
-
-### Choose Dolibarr if…
-
-- You need double-entry accounting, stock, manufacturing, POS or HR in the same app.
-- You want a free, GPL-licensed codebase.
-- Your host only offers an older PHP version: Dolibarr runs on PHP 7.2 and later.
-- You are happy to assemble your setup from modules and community help.
-
-### Moving from Dolibarr
-
-There is no official Dolibarr importer. Export third parties and contacts from Dolibarr as CSV, then use the oneCRM CSV import for leads, customers and contacts. Open invoices and history are best kept in Dolibarr until they are settled.
-
-Facts about Dolibarr were last checked on October 12, 2026. Spotted something out of date?
- [
- Tell us
- ](/site/contact)
-
-- [
- Dolibarr README (licence, modules, DoliStore)
- ](https://github.com/Dolibarr/dolibarr/blob/develop/README.md)
-- [
- Dolibarr features
- ](https://www.dolibarr.org/)
-- [
- Dolibarr prerequisites
- ](https://wiki.dolibarr.org/index.php?title=Prerequisites)
-- [
- Dolibarr releases and PHP support
- ](https://wiki.dolibarr.org/index.php?title=Releases)
-- [
- Dolibarr electronic billing
- ](https://wiki.dolibarr.org/index.php/Electronic_Billing)
-- [
- DoliStore
- ](https://www.dolistore.com/)
-
-### oneCRM vs Invoice Ninja
-
-### oneCRM vs EspoCRM
-
-### oneCRM vs SuiteCRM
-
-### oneCRM vs Zoho
-
-### oneCRM vs Bitrix24
-
-### oneCRM vs HubSpot
-
-### oneCRM vs Pipedrive
-
-## Get started with oneCRM
-
-Try the demo with a job you handle every day. See how oneCRM brings your client work and billing together.
+| **Bản quyền & Chi phí** | | |
+| Mô hình bản quyền | Thương mại, **thanh toán một lần duy nhất (No Per-Seat)** | Mã nguồn mở (GPL-3.0) |
+| Chi phí tự lưu trữ | **$99 trọn gói**, kèm 1 năm cập nhật | Miễn phí bản nhân (Core) |
+| Phí tính năng mở rộng | Các module mở rộng chính thức (Proposals, Marketing) | Hơn 1.000+ add-on trên DoliStore, chi phí phân mảnh |
+| Hỗ trợ kỹ thuật | 1 năm hỗ trợ chính hãng, tùy chọn gia hạn sau đó | Diễn đàn cộng đồng; dịch vụ hỗ trợ có phí từ đối tác bên ngoài |
+| **Hạ tầng máy chủ** | | |
+| Cơ sở dữ liệu | MySQL, MariaDB hoặc PostgreSQL | MySQL, MariaDB hoặc PostgreSQL |
+| Phiên bản PHP | PHP 8.4 trở lên (tối ưu hiệu năng cao) | PHP 7.2 đến 8.5 |
+| Shared hosting | Hỗ trợ tốt nếu có PHP 8.4; queue worker là tùy chọn | Hỗ trợ tốt |
+| **Bán hàng & CRM** | | |
+| Thu thập và sàng lọc Lead | Có sẵn (tích hợp trợ lý AI phân loại) | Có |
+| Phễu bán hàng (Deals Pipeline) | Có sẵn (chấm điểm Lead, dự báo doanh thu) | Có |
+| Form thu Lead nhúng website | Có sẵn | Có |
+| Báo giá trực tuyến (Quotes) | Có sẵn (khách ký duyệt online) | Có |
+| Đề xuất hợp đồng (Proposals) | [Module Proposals cao cấp](/site/features/proposals) | Có |
+| Quản lý hợp đồng | Tích hợp trong báo giá & thỏa thuận dự án | Có module quản lý hợp đồng chi tiết |
+| **Tài chính & Hóa đơn** | | |
+| Hóa đơn, ghi nợ & thanh toán online | Có sẵn đa cổng thanh toán | Có |
+| Hóa đơn định kỳ (Recurring Invoices) | Có sẵn | Có |
+| Quản lý chi phí dự án (Expenses) | Có sẵn (AI bóc tách ảnh biên lai) | Có |
+| Hóa đơn điện tử tiêu chuẩn | Peppol, Factur-X, ZUGFeRD, VeriFactu | Module mở rộng của bên thứ ba |
+| Kế toán kép & Quản lý kho hàng | Không (chuyên môn hóa cho dòng tiền dịch vụ) | Có sẵn phân hệ kế toán kép và quản lý kho hàng |
+| **Dự án & Chăm sóc khách hàng** | | |
+| Quản lý dự án & Công việc | Có sẵn (Kanban, List, Milestone) | Có |
+| Chấm công (Timesheet) & tính tiền giờ | Có sẵn trong bản chuẩn | Có |
+| Hỗ trợ khách hàng (Help Desk) | Có sẵn hệ thống Ticket chuyên nghiệp kèm SLA | Có module ticket |
+| Cổng thông tin khách hàng (Client Portal)| Có sẵn mang thương hiệu riêng | Có |
+| **Công nghệ & Trí tuệ nhân tạo** | | |
+| Trợ lý AI (OpenAI, Gemini, Claude) | **Tích hợp sẵn (BYOK - Tự dùng API Key)** | Cần cài module bên thứ ba |
+| Chuẩn kết nối AI Agent (MCP Server) | **Tích hợp sẵn**, tương tác trực tiếp Cursor / Claude | Không có |
+| Tự động hóa quy trình (Automation) | Có sẵn bộ dựng No-Code trực quan | Hạn chế, cần cấu hình phức tạp |
 
 </div>

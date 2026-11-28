@@ -1,113 +1,45 @@
 ---
-title: "oneCRM vs EspoCRM: self-hosted CRM compared  -  oneCRM"
-description: "oneCRM and EspoCRM compared for self-hosting: licence, paid extensions, CRM, billing, projects, support desk, and when EspoCRM is the better choice."
+title: "So sánh oneCRM vs EspoCRM: Lựa chọn CRM tự lưu trữ tối ưu"
+description: "So sánh oneCRM và EspoCRM tự lưu trữ: bản quyền, các tiện ích mở rộng trả phí, CRM, hóa đơn, quản lý dự án, help desk và trường hợp nên chọn EspoCRM."
 source_path: "/vs/espocrm"
 ---
 
-# oneCRM vs EspoCRM
+# So sánh oneCRM vs EspoCRM
 
 <div v-pre>
 
+EspoCRM là một CRM bán hàng mã nguồn mở linh hoạt: lựa chọn lý tưởng nếu bạn muốn tự mô hình hóa các thực thể (entities) và trường dữ liệu riêng. Tuy nhiên, các phân hệ quan trọng như báo giá, hóa đơn, quản lý dự án, luồng tự động hóa và báo cáo chuyên sâu đều là **tiện ích mở rộng trả phí có thời hạn bản quyền**. Ngược lại, **oneCRM bao gồm trọn gói thanh toán, dự án, chấm công, quản lý chi phí và hóa đơn điện tử chỉ trong một lần mua bản quyền duy nhất**.
 
-EspoCRM is a flexible, open-source sales CRM: pick it if you want to model your own entities and fields. Its quotes, invoices, projects, workflows and reports are paid extensions on a time-limited licence. oneCRM includes billing, projects, time tracking, expenses and e-invoicing in one one-time price.
-
-| Overview | oneCRM | EspoCRM |
+| Tiêu chí tổng quan | oneCRM | EspoCRM |
 | :--- | :--- | :--- |
-| Best for | Agencies, consultants and service businesses | Sales teams that want a customisable CRM |
-| Cost | $99 one-time, 1 year of updates and support | Free core (AGPL-3); paid extensions for billing, projects, workflows |
-| Stack | Laravel and Livewire | PHP with its own framework, single-page frontend |
+| **Phù hợp nhất cho** | Agency, công ty tư vấn, doanh nghiệp dịch vụ, IT & MSPs | Đội ngũ bán hàng cần CRM tùy biến trường dữ liệu linh hoạt |
+| **Chi phí bản quyền** | **$99 mua một lần trọn gói**, 1 năm cập nhật & hỗ trợ | Nhân miễn phí (AGPL-3); các tính năng Hóa đơn, Dự án, Workflow thu phí theo năm |
+| **Công nghệ nền tảng** | **Laravel 13 & Livewire 4 hiện đại** | PHP framework riêng, Single-Page App |
 
-| Capability | oneCRM | EspoCRM |
+| Hạng mục so sánh chi tiết | oneCRM | EspoCRM |
 | :--- | :--- | :--- |
-| **Licence & cost** | | |
-| Licence | Commercial, one-time | Open source (AGPL-3.0) |
-| Price to self-host | $99 one-time, 1 year of updates and support | Free core |
-| Paid extras | Optional modules, such as Proposals and Marketing | Official extensions on a time-limited licence; renew or uninstall when it expires |
-| Vendor support | 1 year included, then optional renewal | Forum; paid support from the vendor |
-| **Hosting** | | |
-| Databases | MySQL, MariaDB or PostgreSQL | MySQL 8, MariaDB 10.6 or PostgreSQL 15 and later |
-| PHP version | 8.4 or later | 8.3 or later |
-| Shared hosting | Yes, with PHP 8.4; a queue worker is optional | Yes |
-| **CRM & sales** | | |
-| Lead capture and qualification | Yes | Yes |
-| Deal pipelines | Yes | Yes |
-| Web-to-lead forms | Yes | Yes |
-| Custom entities, fields and relationships | Limited | Yes |
-| Email, calendar and mass email | Calendar and email inbox; mass email in the paid Marketing module | Yes |
-| Quotes | Yes | Paid Sales Pack |
-| Proposals | [Paid Proposals module](/site/features/proposals) | No |
-| **Billing & finance** | | |
-| Invoices, credit notes, online payments | Yes | Invoices in the paid Sales Pack |
-| Recurring invoices | Yes | No |
-| Expenses | Yes | No |
-| EU e-invoicing<br>oneCRM sends over Peppol through your own Recommand, e-invoice.be or Billit account. | Built in (beta): XRechnung, ZUGFeRD, Factur-X, Facturae and more; Peppol and FACe delivery | No |
-| **Projects & support** | | |
-| Projects and tasks | Yes | Paid Project Management extension |
-| Time tracking and billing time | Yes | No |
-| Support cases | Yes | Yes |
-| Knowledge base | Yes | Yes |
-| Client portal | Yes | Yes |
-| **Automation & extensibility** | | |
-| AI drafting, scoring and classification | Yes, with your own OpenAI, Anthropic or Gemini key | Paid Intelligence extension |
-| Workflows and reports | Yes | Paid Advanced Pack |
-| REST API and webhooks | Yes | Yes |
-| Module system | Modules and a marketplace | Extensions and formula scripting |
-
-### Choose oneCRM if…
-
-- You bill clients for projects and time, and want quotes, invoices and expenses included.
-- You prefer one one-time price over extension licences that must be renewed.
-- You need EN 16931 e-invoices, Peppol or VeriFactu.
-- You want AI drafting and no-code automations without extra licences.
-
-### Choose EspoCRM if…
-
-- Your main need is a sales CRM shaped around your own entities and fields.
-- You want an AGPL-licensed codebase.
-- You rely on built-in email, calendar sync and mass email campaigns.
-- You do not need invoicing, time tracking or expenses.
-
-### Moving from EspoCRM
-
-There is no official EspoCRM importer. Export accounts, contacts and leads from EspoCRM as CSV and use the oneCRM CSV import for customers, contacts and leads.
-
-Facts about EspoCRM were last checked on October 12, 2026. Spotted something out of date?
- [
- Tell us
- ](/site/contact)
-
-- [
- EspoCRM README (licence, requirements)
- ](https://github.com/espocrm/espocrm/blob/master/README.md)
-- [
- EspoCRM features
- ](https://www.espocrm.com/features/)
-- [
- EspoCRM extensions
- ](https://www.espocrm.com/extensions/)
-- [
- EspoCRM extension licence agreement
- ](https://www.espocrm.com/extension-license-agreement/)
-- [
- EspoCRM server configuration
- ](https://docs.espocrm.com/administration/server-configuration/)
-
-### oneCRM vs Dolibarr
-
-### oneCRM vs Invoice Ninja
-
-### oneCRM vs SuiteCRM
-
-### oneCRM vs Zoho
-
-### oneCRM vs Bitrix24
-
-### oneCRM vs HubSpot
-
-### oneCRM vs Pipedrive
-
-## Get started with oneCRM
-
-Try the demo with a job you handle every day. See how oneCRM brings your client work and billing together.
+| **Bản quyền & Chi phí** | | |
+| Mô hình bản quyền | Thương mại, **thanh toán một lần duy nhất (No Per-Seat)** | Nhân mã nguồn mở (AGPL-3.0) |
+| Chi phí tự lưu trữ | **$99 trọn gói**, kèm 1 năm cập nhật | Nhân miễn phí |
+| Phí tính năng mở rộng | Module bổ trợ tùy chọn (Proposals, Marketing) | Tiện ích mở rộng chính thức thu phí định kỳ; hết hạn phải gia hạn hoặc gỡ bỏ |
+| Hỗ trợ kỹ thuật | 1 năm hỗ trợ chính hãng, tùy chọn gia hạn | Diễn đàn cộng đồng; gói hỗ trợ trả phí từ nhà cung cấp |
+| **Hạ tầng máy chủ** | | |
+| Cơ sở dữ liệu | MySQL, MariaDB hoặc PostgreSQL | MySQL 8, MariaDB 10.6 hoặc PostgreSQL 15+ |
+| Phiên bản PHP | PHP 8.4 trở lên | PHP 8.3 trở lên |
+| Shared hosting | Có, yêu cầu PHP 8.4; queue worker là tùy chọn | Có |
+| **Bán hàng & CRM** | | |
+| Quản lý Lead & Phễu Deals | Có sẵn | Có sẵn |
+| Tùy biến trường dữ liệu (Custom Fields) | Có sẵn các loại trường thông dụng | Rất mạnh mẽ, tạo thực thể (Entities) tùy ý |
+| Báo giá trực tuyến (Quotes) | Có sẵn trong gói chuẩn | Phải mua thêm tiện ích mở rộng Báo giá |
+| Cổng thông tin khách hàng (Client Portal)| Có sẵn | Có sẵn |
+| **Dự án & Tài chính** | | |
+| Xuất hóa đơn thanh toán & Hóa đơn định kỳ | Có sẵn trong gói chuẩn | Phải mua thêm tiện ích mở rộng Invoices |
+| Quản lý dự án & Chấm công (Timesheet) | Có sẵn trong gói chuẩn | Phải mua thêm tiện ích mở rộng Projects |
+| Hóa đơn điện tử tiêu chuẩn quốc tế | Có sẵn (Peppol, Factur-X, ZUGFeRD) | Chưa hỗ trợ |
+| Hỗ trợ khách hàng (Help Desk / Tickets)| Có sẵn bàn hỗ trợ ticket chuyên nghiệp | Có sẵn tính năng Case Management |
+| **Công nghệ & Trí tuệ nhân tạo** | | |
+| Trợ lý AI tích hợp | **Có sẵn (OpenAI, Gemini, Claude BYOK)** | Chưa tích hợp sẵn |
+| Chuẩn kết nối AI Agent (MCP Server) | **Có sẵn**, kết nối trực tiếp Claude / Cursor | Không có |
+| Tự động hóa quy trình (Automations) | Bộ dựng No-Code trực quan có sẵn | Phải mua thêm tiện ích mở rộng Advanced Pack |
 
 </div>

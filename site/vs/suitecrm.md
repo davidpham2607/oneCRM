@@ -1,114 +1,45 @@
 ---
-title: "oneCRM vs SuiteCRM: self-hosted CRM compared  -  oneCRM"
-description: "oneCRM and SuiteCRM 8 compared for self-hosting: licence, hosting, CRM depth, billing, projects, support desk, and when SuiteCRM is the better choice."
+title: "So sánh oneCRM vs SuiteCRM: Lựa chọn CRM tự lưu trữ tối ưu"
+description: "So sánh oneCRM và SuiteCRM 8 tự lưu trữ: bản quyền, máy chủ lưu trữ, chiều sâu tính năng, hóa đơn, dự án, help desk và trường hợp nên chọn SuiteCRM."
 source_path: "/vs/suitecrm"
 ---
 
-# oneCRM vs SuiteCRM
+# So sánh oneCRM vs SuiteCRM
 
 <div v-pre>
 
+SuiteCRM là CRM bán hàng doanh nghiệp mã nguồn mở miễn phí quy mô lớn: phù hợp cho các chiến dịch marketing diện rộng, luồng phê duyệt phức tạp tương tự Salesforce, yêu cầu máy chủ VPS cấu hình mạnh để vận hành. Ngược lại, **oneCRM nhẹ nhàng hơn rất nhiều khi lưu trữ và được thiết kế xoay quanh công việc khách hàng dịch vụ**: quản lý dự án, chấm công, hóa đơn định kỳ, chi phí, ticket hỗ trợ và cổng thông tin khách hàng, tích hợp sẵn hóa đơn điện tử với mức giá một lần duy nhất.
 
-SuiteCRM is a deep, free enterprise sales CRM: pick it for campaigns, complex workflows and Salesforce-style breadth, with a VPS to run it. oneCRM is lighter to host and built around client work  -  projects, time, recurring invoices, expenses, tickets and a client portal  -  with e-invoicing included.
-
-| Overview | oneCRM | SuiteCRM |
+| Tiêu chí tổng quan | oneCRM | SuiteCRM |
 | :--- | :--- | :--- |
-| Best for | Agencies, consultants and service businesses | Sales and marketing teams that need an enterprise-grade CRM |
-| Cost | $99 one-time, 1 year of updates and support | Free (AGPL-3); store add-ons are mostly subscriptions |
-| Stack | Laravel and Livewire | Symfony and Angular, with legacy SuiteCRM 7 code |
+| **Phù hợp nhất cho** | Agency, công ty tư vấn, doanh nghiệp dịch vụ, IT & MSPs | Đội ngũ kinh doanh & marketing cần CRM cấp doanh nghiệp lớn |
+| **Chi phí bản quyền** | **$99 mua một lần trọn gói**, 1 năm cập nhật & hỗ trợ | Miễn phí (AGPL-3); các add-on trên SuiteCRM Store chủ yếu thu phí thuê bao |
+| **Công nghệ nền tảng** | **Laravel 13 & Livewire 4 hiện đại, siêu nhẹ** | Symfony kết hợp Angular và mã nguồn kế thừa SuiteCRM 7 |
 
-| Capability | oneCRM | SuiteCRM |
+| Hạng mục so sánh chi tiết | oneCRM | SuiteCRM |
 | :--- | :--- | :--- |
-| **Licence & cost** | | |
-| Licence | Commercial, one-time | Open source (AGPL-3.0) |
-| Price to self-host | $99 one-time, 1 year of updates and support | Free |
-| Paid extras | Optional modules, such as Proposals and Marketing | Store add-ons, mostly monthly or yearly subscriptions |
-| Vendor support | 1 year included, then optional renewal | Community forum; paid support plans from SalesAgility |
-| **Hosting** | | |
-| Databases | MySQL, MariaDB or PostgreSQL | MySQL 8 or MariaDB 10.6 and later |
-| PHP version | 8.4 or later | 8.2 to 8.4 (8.10) |
-| Shared hosting | Yes, with PHP 8.4; a queue worker is optional | Not practical: needs a background worker and Apache |
-| **CRM & sales** | | |
-| Lead capture and qualification | Yes | Yes |
-| Deal pipelines | Yes | Yes |
-| Web-to-lead forms | Yes | Yes |
-| Marketing campaigns and surveys | Campaigns in the paid Marketing module; no surveys | Yes |
-| Quotes | Yes | Yes |
-| Proposals | [Paid Proposals module](/site/features/proposals) | No |
-| Contracts | No | Yes |
-| **Billing & finance** | | |
-| Invoices | Yes | Yes |
-| Credit notes and online payments | Yes | Check with vendor |
-| Recurring invoices | Yes | No |
-| Expenses | Yes | No |
-| EU e-invoicing<br>oneCRM sends over Peppol through your own Recommand, e-invoice.be or Billit account. | Built in (beta): XRechnung, ZUGFeRD, Factur-X, Facturae and more; Peppol and FACe delivery | No |
-| **Projects & support** | | |
-| Projects and tasks | Yes | Yes |
-| Time tracking and billing time | Yes | No |
-| Support cases | Yes | Yes |
-| Knowledge base | Yes | Yes |
-| Client portal | Yes | Check with vendor |
-| **Automation & extensibility** | | |
-| AI drafting, scoring and classification | Yes, with your own OpenAI, Anthropic or Gemini key | No |
-| Workflows and reports | Yes | Yes |
-| REST API and webhooks | Yes | REST API |
-| Module system | Modules and a marketplace | Extension framework and logic hooks |
-
-### Choose oneCRM if…
-
-- You run client projects and bill for time, retainers or recurring services.
-- You want to host on ordinary PHP hosting without a background worker.
-- You need EN 16931 e-invoices, Peppol or VeriFactu.
-- You want PostgreSQL support, AI drafting and no-code automations built in.
-
-### Choose SuiteCRM if…
-
-- You need campaigns, surveys and enterprise sales processes.
-- You want a free, AGPL-licensed CRM with Salesforce-style breadth.
-- You have the server skills, or a partner, to run and upgrade it.
-- You need a contracts module.
-
-### Moving from SuiteCRM
-
-There is no official SuiteCRM importer. Export accounts, contacts and leads from SuiteCRM as CSV and use the oneCRM CSV import for customers, contacts and leads.
-
-Facts about SuiteCRM were last checked on October 12, 2026. Spotted something out of date?
- [
- Tell us
- ](/site/contact)
-
-- [
- SuiteCRM Core README (licence, stack)
- ](https://github.com/salesagility/SuiteCRM-Core/blob/master/README.md)
-- [
- SuiteCRM 8 compatibility matrix
- ](https://docs.suitecrm.com/8.x/admin/compatibility-matrix/)
-- [
- SuiteCRM 8 installation guide
- ](https://docs.suitecrm.com/8.x/admin/installation-guide/downloading-installing/)
-- [
- SuiteCRM features
- ](https://suitecrm.com/features/)
-- [
- SuiteCRM pricing
- ](https://suitecrm.com/pricing/)
-
-### oneCRM vs Dolibarr
-
-### oneCRM vs Invoice Ninja
-
-### oneCRM vs EspoCRM
-
-### oneCRM vs Zoho
-
-### oneCRM vs Bitrix24
-
-### oneCRM vs HubSpot
-
-### oneCRM vs Pipedrive
-
-## Get started with oneCRM
-
-Try the demo with a job you handle every day. See how oneCRM brings your client work and billing together.
+| **Bản quyền & Chi phí** | | |
+| Mô hình bản quyền | Thương mại, **thanh toán một lần duy nhất (No Per-Seat)** | Mã nguồn mở (AGPL-3.0) |
+| Chi phí tự lưu trữ | **$99 trọn gói**, kèm 1 năm cập nhật | Miễn phí bản nhân |
+| Chi phí bổ sung | Module mở rộng chính thức tùy chọn | Tiện ích mở rộng trên Store, đa phần thu phí tháng hoặc năm |
+| Hỗ trợ kỹ thuật | 1 năm hỗ trợ chính hãng, tùy chọn gia hạn | Diễn đàn cộng đồng; gói hỗ trợ trả lời theo ticket từ SalesAgility |
+| **Hạ tầng máy chủ** | | |
+| Cơ sở dữ liệu | MySQL, MariaDB hoặc PostgreSQL | MySQL 8 hoặc MariaDB 10.6 trở lên |
+| Phiên bản PHP | PHP 8.4 trở lên | PHP 8.2 đến 8.4 |
+| Shared hosting | Có, yêu cầu PHP 8.4; queue worker là tùy chọn | Không khả thi: đòi hỏi máy chủ VPS riêng và cấu hình Apache phức tạp |
+| **Bán hàng & CRM** | | |
+| Quản lý Lead & Phễu bán hàng | Có sẵn | Rất sâu, hỗ trợ quy trình bán hàng doanh nghiệp lớn |
+| Báo giá trực tuyến (Quotes) | Có sẵn (khách duyệt online) | Có sẵn |
+| Chiến dịch Email Marketing diện rộng | Bản chuẩn tập trung email khách hàng; có module Marketing mở rộng | Có sẵn phân hệ chiến dịch marketing đa kênh quy mô lớn |
+| Cổng thông tin khách hàng (Client Portal)| Có sẵn mang thương hiệu riêng | Cần cài đặt thêm phân hệ portal riêng |
+| **Dự án & Tài chính** | | |
+| Quản lý dự án & Chấm công (Timesheet) | Có sẵn, thiết kế chuyên sâu cho công ty dịch vụ | Có phân hệ dự án cơ bản |
+| Hóa đơn, thanh toán & Hóa đơn định kỳ | Có sẵn đầy đủ | Có |
+| Hóa đơn điện tử tiêu chuẩn quốc tế | Có sẵn (Peppol, Factur-X, ZUGFeRD) | Chưa hỗ trợ |
+| Hỗ trợ khách hàng (Help Desk / Tickets)| Có sẵn bàn hỗ trợ ticket chuyên nghiệp có SLA | Có module Cases |
+| **Công nghệ & Trí tuệ nhân tạo** | | |
+| Trợ lý AI tích hợp | **Có sẵn (OpenAI, Gemini, Claude BYOK)** | Chưa tích hợp sẵn |
+| Chuẩn kết nối AI Agent (MCP Server) | **Có sẵn**, tương tác trực tiếp Claude / Cursor | Không có |
+| Tự động hóa quy trình (Automations) | Bộ dựng No-Code trực quan dễ dùng | Workflows mạnh mẽ nhưng cấu hình phức tạp |
 
 </div>
